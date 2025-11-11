@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "uid": "5573b1",
+      "mode": "markers",
+      "name": "B",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1069:4b07da",
+      "x": [
+        "Without interviewing.io",
+        "With interviewing.io"
+      ],
+      "ysrc": "aline_interviewingio:1069:19f3de",
+      "y": [
+        "100",
+        "1"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Bias in Onsites With and Without interviewing.io",
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        1.5
+      ],
+      "title": "",
+      "showline": true,
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        105.26315789473685
+      ],
+      "title": "Percent Bias",
+      "showline": true,
+      "autorange": true
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "breakpoints": []
+  }
+}

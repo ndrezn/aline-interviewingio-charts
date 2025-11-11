@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "uid": "615820",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(0, 0, 0)",
+        "shape": "spline",
+        "width": 4,
+        "smoothing": 0.5
+      },
+      "mode": "lines",
+      "name": "Median (50%)",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:991:27f870",
+      "x": [
+        2.25,
+        2.5,
+        2.75,
+        3,
+        3.25,
+        3.5,
+        3.75
+      ],
+      "ysrc": "aline_interviewingio:991:4fa2b7",
+      "y": [
+        0.615384615384615,
+        0.476190476190476,
+        0.382978723404255,
+        0.13953488372093,
+        0.0983606557377049,
+        0.0571428571428571,
+        0
+      ],
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "5691f7",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "rgba(102, 102, 102, 0.31)",
+        "shape": "spline",
+        "width": 0,
+        "smoothing": 0.5
+      },
+      "mode": "lines",
+      "name": "97.5%",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:991:27f870",
+      "x": [
+        2.25,
+        2.5,
+        2.75,
+        3,
+        3.25,
+        3.5,
+        3.75
+      ],
+      "ysrc": "aline_interviewingio:991:6c6a49",
+      "y": [
+        0.807692307692308,
+        0.619047619047619,
+        0.531914893617021,
+        0.22093023255814,
+        0.180327868852459,
+        0.142857142857143,
+        0
+      ],
+      "showlegend": false
+    },
+    {
+      "uid": "6a0967",
+      "fill": "tonexty",
+      "line": {
+        "shape": "spline",
+        "smoothing": 0.5
+      },
+      "mode": "none",
+      "name": "2.5%",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:991:27f870",
+      "x": [
+        2.25,
+        2.5,
+        2.75,
+        3,
+        3.25,
+        3.5,
+        3.75
+      ],
+      "ysrc": "aline_interviewingio:991:3f6d04",
+      "y": [
+        "0.423076923076923",
+        "0.333333333333333",
+        "0.25531914893617",
+        "0.0697674418604651",
+        "0.0327868852459016",
+        "0",
+        "0"
+      ],
+      "fillcolor": "rgba(102, 102, 102, 0.43)",
+      "showlegend": false
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "title": "Probability of Failing a Single Interview by Mean Score (at 95% Confidence)",
+    "width": 1332,
+    "xaxis": {
+      "type": "linear",
+      "dtick": 0.25,
+      "range": [
+        2.25,
+        3.75
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "Mean Technical Score",
+      "mirror": false,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 16,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.044871794871794886,
+        0.852564102564103
+      ],
+      "ticks": "",
+      "title": "P(Fail)",
+      "mirror": false,
+      "nticks": 0,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 16,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "height": 736,
+    "legend": {
+      "x": 1.02,
+      "y": 1,
+      "font": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "bgcolor": "rgba(0, 0, 0, 0)",
+      "traceorder": "reversed",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "titlefont": {
+      "size": 18,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "separators": ".,",
+    "hidesources": false,
+    "plot_bgcolor": "rgba(0, 0, 0, 0)",
+    "paper_bgcolor": "rgba(0, 0, 0, 0)"
+  }
+}

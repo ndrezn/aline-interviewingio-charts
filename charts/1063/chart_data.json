@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "uid": "98b39c",
+      "mode": "markers",
+      "name": "\"Elite\"",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1064:1a6ce9",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1064:e3a87e",
+      "y": [
+        "3",
+        "28",
+        "51",
+        "19"
+      ],
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": true,
+      "orientation": "v"
+    },
+    {
+      "uid": "aefd9a",
+      "name": "Top 15",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1064:1a6ce9",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1064:77d18c",
+      "y": [
+        "3",
+        "23",
+        "49",
+        "25"
+      ],
+      "xaxis": "x",
+      "yaxis": "y4",
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "visible": true,
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "769422",
+      "name": "Top 50",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1064:1a6ce9",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1064:05494a",
+      "y": [
+        "2",
+        "26",
+        "48",
+        "25"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y3",
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "b24f90",
+      "name": "The rest",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1064:1a6ce9",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1064:926f8d",
+      "y": [
+        "2",
+        "33",
+        "43",
+        "23"
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "New Grad Interview Performance by School Tier",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "Technical Score",
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        53.68421052631579
+      ],
+      "title": "Frequency (%)",
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "legend": {
+      "font": {
+        "size": 12
+      }
+    },
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "Technical Score",
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "xaxis3": {
+      "range": [
+        -0.5,
+        3.5
+      ],
+      "title": "Technical Score",
+      "anchor": "y4",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "xaxis4": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "",
+      "domain": [
+        0,
+        1
+      ],
+      "autorange": true
+    },
+    "xaxis5": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "Technical Score",
+      "anchor": "y2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "yaxis2": {
+      "type": "linear",
+      "range": [
+        0,
+        50
+      ],
+      "title": "Frequency (%)",
+      "anchor": "x2",
+      "domain": [
+        0,
+        0.45
+      ],
+      "showline": true,
+      "autorange": false,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis3": {
+      "type": "linear",
+      "range": [
+        0,
+        50.526315789473685
+      ],
+      "title": "Frequency (%)",
+      "anchor": "x2",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis4": {
+      "type": "linear",
+      "range": [
+        0,
+        51.578947368421055
+      ],
+      "title": "Frequency (%)",
+      "anchor": "x",
+      "domain": [
+        0.55,
+        1
+      ],
+      "showline": true,
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis5": {
+      "type": "linear",
+      "range": [
+        0,
+        45.26315789473684
+      ],
+      "anchor": "x",
+      "domain": [
+        0.55,
+        1
+      ],
+      "autorange": true
+    },
+    "barmode": "group",
+    "autosize": true,
+    "hovermode": "closest",
+    "titlefont": {
+      "size": 16
+    },
+    "showlegend": true,
+    "bargroupgap": 0,
+    "breakpoints": []
+  }
+}

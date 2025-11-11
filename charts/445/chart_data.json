@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "uid": "220930",
+      "name": "Col1",
+      "type": "histogram",
+      "xsrc": "aline_interviewingio:446:6da567",
+      "x": [
+        "2",
+        "2",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "2.5",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3.2",
+        "3.2",
+        "3.2",
+        "3.2",
+        "3.3",
+        "3.3",
+        "3.3",
+        "3.3",
+        "3.3",
+        "3.3",
+        "3.3",
+        "3.3",
+        "3.5",
+        "3.5",
+        "3.5",
+        "3.5",
+        "3.5",
+        "3.7",
+        "3.7",
+        "3.7",
+        "4"
+      ],
+      "xbins": {
+        "end": 4.25,
+        "size": 0.25,
+        "start": 1.75
+      },
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "color": "rgb(99, 99, 99)"
+      },
+      "opacity": 1,
+      "autobinx": false,
+      "histnorm": "percent"
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open sans\", verdana, arial, sans-serif"
+    },
+    "title": "Distribution of Mean Interviewee Performance",
+    "width": 2174,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1.95,
+        4.25
+      ],
+      "ticks": "",
+      "title": "Mean Performance",
+      "nticks": 18,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": false,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "range": [
+        0,
+        38.00645780634463
+      ],
+      "ticks": "",
+      "title": "Frequency (%)",
+      "nticks": 16,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open sans\", verdana, arial, sans-serif"
+      },
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.1,
+    "height": 1082,
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "titlefont": {
+      "size": 17,
+      "color": "#444",
+      "family": "\"Open sans\", verdana, arial, sans-serif"
+    },
+    "separators": ".,",
+    "annotations": [
+      {
+        "x": 2.6298659384309833,
+        "y": 37.14267467438225,
+        "ax": 5,
+        "ay": -30,
+        "font": {
+          "size": 14,
+          "color": "rgb(255, 0, 0)"
+        },
+        "text": "P(Fail) ~= 0.75",
+        "arrowhead": 1,
+        "arrowsize": 1,
+        "borderpad": 10,
+        "showarrow": false,
+        "arrowwidth": 1.9,
+        "bordercolor": "rgb(99, 99, 99)"
+      },
+      {
+        "x": 3.129046673286991,
+        "y": 23.882704254498385,
+        "font": {
+          "size": 14,
+          "color": "rgb(255, 0, 0)"
+        },
+        "text": "P(Fail) ~= 0.4-0.5",
+        "borderpad": 10,
+        "showarrow": false,
+        "arrowwidth": 2,
+        "bordercolor": "rgb(99, 99, 99)"
+      },
+      {
+        "x": 3.3755213505461765,
+        "y": 19.333972326725164,
+        "font": {
+          "size": 14,
+          "color": "rgb(255, 0, 0)"
+        },
+        "text": "P(Fail) ~= 0.3",
+        "borderpad": 10,
+        "showarrow": false,
+        "bordercolor": "rgb(99, 99, 99)"
+      },
+      {
+        "x": 3.6218967229394234,
+        "y": 19.39532625459419,
+        "font": {
+          "size": 14,
+          "color": "rgb(255, 0, 0)"
+        },
+        "text": "P(Fail) ~= 0.1-0.25",
+        "borderpad": 10,
+        "showarrow": false,
+        "bordercolor": "rgb(99, 99, 99)"
+      }
+    ],
+    "bargroupgap": 0,
+    "hidesources": false,
+    "plot_bgcolor": "#fff",
+    "paper_bgcolor": "#fff"
+  }
+}

@@ -1,0 +1,1896 @@
+{
+  "data": [
+    {
+      "uid": "935161",
+      "name": "",
+      "type": "heatmap",
+      "xsrc": "aline_interviewingio:960:d6777d",
+      "x": [
+        "",
+        2,
+        3,
+        4
+      ],
+      "ysrc": "aline_interviewingio:960:113037",
+      "y": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "zmax": 1,
+      "zmin": 0,
+      "zsrc": "aline_interviewingio:960:876f30,b1e77d,ab8814,96f664",
+      "z": [
+        [
+          null,
+          0,
+          null,
+          null
+        ],
+        [
+          0,
+          0.125,
+          0,
+          null
+        ],
+        [
+          null,
+          0.125,
+          1,
+          0
+        ],
+        [
+          null,
+          null,
+          0,
+          0.375
+        ]
+      ],
+      "xaxis": "x",
+      "yaxis": "y",
+      "zauto": true,
+      "marker": {
+        "colorbar": {
+          "x": 1.05
+        },
+        "showscale": false
+      },
+      "textsrc": "aline_interviewingio:960:52da96,6e8a4b,d5880e,2a802c",
+      "text": [
+        [
+          null,
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 1",
+          null,
+          null
+        ],
+        [
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 1<br>as.factor(interviewer_review_communication): 2",
+          "count: 2<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 2",
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 2",
+          null
+        ],
+        [
+          null,
+          "count: 2<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 3",
+          "count: 9<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 3",
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 3"
+        ],
+        [
+          null,
+          null,
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 4",
+          "count: 4<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 4"
+        ]
+      ],
+      "autobinx": true,
+      "autobiny": true,
+      "hoverinfo": "text",
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "#132B43"
+        ],
+        [
+          0.125,
+          "#17334E"
+        ],
+        [
+          0.375,
+          "#1F4364"
+        ],
+        [
+          1,
+          "#356F9E"
+        ]
+      ],
+      "showlegend": false,
+      "autocolorscale": false
+    },
+    {
+      "uid": "3c3d46",
+      "name": "",
+      "type": "heatmap",
+      "xsrc": "aline_interviewingio:960:9aadb6",
+      "x": [
+        2,
+        3,
+        4
+      ],
+      "ysrc": "aline_interviewingio:960:3dc241",
+      "y": [
+        2,
+        3,
+        4
+      ],
+      "zmax": 1,
+      "zmin": 0,
+      "zsrc": "aline_interviewingio:960:2ee5c7,45e463,b089b3",
+      "z": [
+        [
+          0.2,
+          0,
+          null
+        ],
+        [
+          0.466666666666667,
+          1,
+          0.133333333333333
+        ],
+        [
+          0.333333333333333,
+          0.533333333333333,
+          0.333333333333333
+        ]
+      ],
+      "xaxis": "x2",
+      "yaxis": "y",
+      "zauto": true,
+      "marker": {
+        "colorbar": {
+          "x": 1.05
+        },
+        "showscale": false
+      },
+      "textsrc": "aline_interviewingio:960:e034f6,45ec44,8efa96",
+      "text": [
+        [
+          "count: 4<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 2",
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 2",
+          null
+        ],
+        [
+          "count: 8<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 3",
+          "count: 16<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 3",
+          "count: 3<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 3"
+        ],
+        [
+          "count: 6<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 4",
+          "count: 9<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 4",
+          "count: 6<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 4"
+        ]
+      ],
+      "hoverinfo": "text",
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "#132B43"
+        ],
+        [
+          0.133333333333333,
+          "#1B3B58"
+        ],
+        [
+          0.2,
+          "#1F4364"
+        ],
+        [
+          0.333333333333333,
+          "#28547A"
+        ],
+        [
+          0.466666666666667,
+          "#316692"
+        ],
+        [
+          0.533333333333333,
+          "#356F9E"
+        ],
+        [
+          1,
+          "#56B1F7"
+        ]
+      ],
+      "showlegend": false,
+      "autocolorscale": false
+    },
+    {
+      "uid": "6e40ad",
+      "name": "",
+      "type": "heatmap",
+      "xsrc": "aline_interviewingio:960:9aadb6",
+      "x": [
+        2,
+        3,
+        4
+      ],
+      "ysrc": "aline_interviewingio:960:3dc241",
+      "y": [
+        2,
+        3,
+        4
+      ],
+      "zmax": 1,
+      "zmin": 0,
+      "zsrc": "aline_interviewingio:960:496885,4f9b01,63f8b2",
+      "z": [
+        [
+          null,
+          0,
+          null
+        ],
+        [
+          0.636363636363636,
+          1,
+          0
+        ],
+        [
+          0.181818181818182,
+          0.909090909090909,
+          0.181818181818182
+        ]
+      ],
+      "xaxis": "x3",
+      "yaxis": "y",
+      "zauto": true,
+      "marker": {
+        "colorbar": {
+          "x": 1.05
+        },
+        "showscale": false
+      },
+      "textsrc": "aline_interviewingio:960:e64c80,834eeb,6c04b2",
+      "text": [
+        [
+          null,
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 2",
+          null
+        ],
+        [
+          "count: 8<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 3",
+          "count: 12<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 3",
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 3"
+        ],
+        [
+          "count: 3<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 4",
+          "count: 11<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 4",
+          "count: 3<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 4"
+        ]
+      ],
+      "hoverinfo": "text",
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "#132B43"
+        ],
+        [
+          0.181818181818182,
+          "#1B3B58"
+        ],
+        [
+          0.636363636363636,
+          "#316692"
+        ],
+        [
+          0.909090909090909,
+          "#3E81B7"
+        ],
+        [
+          1,
+          "#438AC3"
+        ]
+      ],
+      "showlegend": false,
+      "autocolorscale": false
+    },
+    {
+      "uid": "b94aae",
+      "name": "",
+      "type": "heatmap",
+      "xsrc": "aline_interviewingio:960:652e30",
+      "x": [
+        2,
+        3
+      ],
+      "ysrc": "aline_interviewingio:960:3dc241",
+      "y": [
+        2,
+        3,
+        4
+      ],
+      "zmax": 1,
+      "zmin": 0,
+      "zsrc": "aline_interviewingio:960:8d2c32,fe400d",
+      "z": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          null,
+          0
+        ]
+      ],
+      "xaxis": "x",
+      "yaxis": "y2",
+      "zauto": true,
+      "marker": {
+        "colorbar": {
+          "x": 1.05
+        },
+        "showscale": false
+      },
+      "textsrc": "aline_interviewingio:960:5929bd,68bddd",
+      "text": [
+        [
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 2",
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 2"
+        ],
+        [
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 3",
+          "count: 6<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 3"
+        ],
+        [
+          null,
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 4"
+        ]
+      ],
+      "hoverinfo": "text",
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "#132B43"
+        ],
+        [
+          1,
+          "#28547A"
+        ]
+      ],
+      "showlegend": false,
+      "autocolorscale": false
+    },
+    {
+      "uid": "2b5103",
+      "name": "",
+      "type": "heatmap",
+      "xsrc": "aline_interviewingio:960:d6777d",
+      "x": [
+        "",
+        2,
+        3,
+        4
+      ],
+      "ysrc": "aline_interviewingio:960:3dc241",
+      "y": [
+        2,
+        3,
+        4
+      ],
+      "zmax": 1,
+      "zmin": 0,
+      "zsrc": "aline_interviewingio:960:ac8d8b,e8ef97,fae375,4077bd",
+      "z": [
+        [
+          0,
+          0,
+          0.111111111111111,
+          null
+        ],
+        [
+          null,
+          0.222222222222222,
+          0.666666666666667,
+          0.222222222222222
+        ],
+        [
+          null,
+          0,
+          1,
+          0.777777777777778
+        ]
+      ],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "zauto": true,
+      "marker": {
+        "colorbar": {
+          "x": 1.05
+        },
+        "showscale": false
+      },
+      "textsrc": "aline_interviewingio:960:642678,de37aa,168f04,80d0a7",
+      "text": [
+        [
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 1<br>as.factor(interviewer_review_communication): 2",
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 2",
+          "count: 2<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 2",
+          null
+        ],
+        [
+          null,
+          "count: 3<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 3",
+          "count: 7<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 3",
+          "count: 3<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 3"
+        ],
+        [
+          null,
+          "count: 1<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 4",
+          "count: 10<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 4",
+          "count: 8<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 4"
+        ]
+      ],
+      "autobinx": true,
+      "autobiny": true,
+      "hoverinfo": "text",
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "#132B43"
+        ],
+        [
+          0.111111111111111,
+          "#17334E"
+        ],
+        [
+          0.222222222222222,
+          "#1B3B58"
+        ],
+        [
+          0.666666666666667,
+          "#2C5D86"
+        ],
+        [
+          0.777777777777778,
+          "#316692"
+        ],
+        [
+          1,
+          "#3A78AA"
+        ]
+      ],
+      "showlegend": false,
+      "autocolorscale": false
+    },
+    {
+      "uid": "0bc34c",
+      "name": "",
+      "type": "heatmap",
+      "xsrc": "aline_interviewingio:960:9aadb6",
+      "x": [
+        2,
+        3,
+        4
+      ],
+      "ysrc": "aline_interviewingio:960:3dc241",
+      "y": [
+        2,
+        3,
+        4
+      ],
+      "zmax": 1,
+      "zmin": 0,
+      "zsrc": "aline_interviewingio:960:7af530,3f4108,721dea",
+      "z": [
+        [
+          null,
+          0.153846153846154,
+          null
+        ],
+        [
+          0.923076923076923,
+          1,
+          0
+        ],
+        [
+          0.0769230769230769,
+          0.307692307692308,
+          0.307692307692308
+        ]
+      ],
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "zauto": true,
+      "marker": {
+        "colorbar": {
+          "x": 1.05
+        },
+        "showscale": false
+      },
+      "textsrc": "aline_interviewingio:960:4d0d03,57733e,e06971",
+      "text": [
+        [
+          null,
+          "count: 4<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 2",
+          null
+        ],
+        [
+          "count: 14<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 3",
+          "count: 15<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 3",
+          "count: 2<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 3"
+        ],
+        [
+          "count: 3<br>as.factor(interviewer_review_codeSkill): 2<br>as.factor(interviewer_review_communication): 4",
+          "count: 6<br>as.factor(interviewer_review_codeSkill): 3<br>as.factor(interviewer_review_communication): 4",
+          "count: 6<br>as.factor(interviewer_review_codeSkill): 4<br>as.factor(interviewer_review_communication): 4"
+        ]
+      ],
+      "hoverinfo": "text",
+      "showscale": false,
+      "colorscale": [
+        [
+          0,
+          "#17334E"
+        ],
+        [
+          0.0769230769230769,
+          "#1B3B58"
+        ],
+        [
+          0.153846153846154,
+          "#1F4364"
+        ],
+        [
+          0.307692307692308,
+          "#28547A"
+        ],
+        [
+          0.923076923076923,
+          "#4C9DDD"
+        ],
+        [
+          1,
+          "#51A7EA"
+        ]
+      ],
+      "showlegend": false,
+      "autocolorscale": false
+    },
+    {
+      "uid": "a4c6c8",
+      "mode": "markers",
+      "name": "99_99562b879af8bdee8109a9d435f878c9",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:960:ef44b5",
+      "x": [
+        0.4,
+        4.6
+      ],
+      "ysrc": "aline_interviewingio:960:fe96a5",
+      "y": [
+        0.4,
+        4.6
+      ],
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "cmax": 1,
+        "cmin": 0,
+        "cauto": true,
+        "colorbar": {
+          "x": 1.05,
+          "y": 0.5,
+          "len": 0.5,
+          "title": "Number of interviews",
+          "bgcolor": "rgba(255,255,255,1)",
+          "ticklen": 2,
+          "tickfont": {
+            "size": 11.689497716895,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "tickmode": "array",
+          "thickness": 23.04,
+          "titlefont": {
+            "size": 14.6118721461187,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "bordercolor": "transparent",
+          "borderwidth": 1.88976377952756,
+          "ticktextsrc": "aline_interviewingio:960:b68e7d",
+          "ticktext": [
+            "4",
+            "8",
+            "12",
+            "16"
+          ],
+          "tickvalssrc": "aline_interviewingio:960:330aee",
+          "tickvals": [
+            0.2,
+            0.466666666666667,
+            0.733333333333333,
+            1
+          ]
+        },
+        "colorsrc": "aline_interviewingio:960:41997d",
+        "color": [
+          0,
+          1
+        ],
+        "showscale": false,
+        "colorscale": [
+          [
+            0,
+            "#132B43"
+          ],
+          [
+            0.0666666666666667,
+            "#17334E"
+          ],
+          [
+            0.133333333333333,
+            "#1B3B58"
+          ],
+          [
+            0.2,
+            "#1F4364"
+          ],
+          [
+            0.266666666666667,
+            "#234C6F"
+          ],
+          [
+            0.333333333333333,
+            "#28547A"
+          ],
+          [
+            0.4,
+            "#2C5D86"
+          ],
+          [
+            0.466666666666667,
+            "#316692"
+          ],
+          [
+            0.533333333333333,
+            "#356F9E"
+          ],
+          [
+            0.6,
+            "#3A78AA"
+          ],
+          [
+            0.666666666666667,
+            "#3E81B7"
+          ],
+          [
+            0.733333333333333,
+            "#438AC3"
+          ],
+          [
+            0.8,
+            "#4894D0"
+          ],
+          [
+            0.866666666666667,
+            "#4C9DDD"
+          ],
+          [
+            0.933333333333333,
+            "#51A7EA"
+          ],
+          [
+            1,
+            "#56B1F7"
+          ]
+        ]
+      },
+      "opacity": 0,
+      "hoverinfo": "none",
+      "showlegend": false
+    }
+  ],
+  "frames": [
+    {
+      "name": "workspace-breakpoint-0",
+      "layout": {
+        "font": {
+          "size": 14,
+          "color": "rgba(0, 0, 0, 1)",
+          "family": ""
+        },
+        "title": "Co-distribution of coding ability and<br>communication ability by language",
+        "width": 320,
+        "xaxis": {
+          "type": "linear",
+          "range": [
+            0.4,
+            4.6
+          ],
+          "ticks": "outside",
+          "title": "",
+          "anchor": "y2",
+          "domain": [
+            0,
+            0.27550554468362703
+          ],
+          "ticklen": 3.65296803652968,
+          "showgrid": true,
+          "showline": false,
+          "tickfont": {
+            "size": 11.689497716895,
+            "color": "rgba(77,77,77,1)",
+            "family": ""
+          },
+          "tickmode": "array",
+          "ticktext": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "tickvals": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "zeroline": false,
+          "autorange": false,
+          "gridcolor": "rgba(255,255,255,1)",
+          "gridwidth": 0.66417600664176,
+          "linewidth": 0,
+          "tickangle": 0,
+          "tickcolor": "rgba(51,51,51,1)",
+          "tickwidth": 0.66417600664176,
+          "titlefont": {
+            "size": 10,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "hoverformat": ".2f",
+          "showticklabels": true
+        },
+        "yaxis": {
+          "type": "linear",
+          "range": [
+            0.4,
+            4.6
+          ],
+          "ticks": "outside",
+          "title": "",
+          "anchor": "x",
+          "domain": [
+            0.512665362035225,
+            1
+          ],
+          "ticklen": 3.65296803652968,
+          "showgrid": true,
+          "showline": false,
+          "tickfont": {
+            "size": 11.689497716895,
+            "color": "rgba(77,77,77,1)",
+            "family": ""
+          },
+          "tickmode": "array",
+          "ticktext": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "tickvals": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "zeroline": false,
+          "autorange": false,
+          "gridcolor": "rgba(255,255,255,1)",
+          "gridwidth": 0.66417600664176,
+          "linecolor": null,
+          "linewidth": 0,
+          "tickangle": 0,
+          "tickcolor": "rgba(51,51,51,1)",
+          "tickwidth": 0.66417600664176,
+          "titlefont": {
+            "size": 10,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "hoverformat": ".2f",
+          "showticklabels": true
+        },
+        "height": 400,
+        "legend": {
+          "font": {
+            "size": 11.689497716895,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "bgcolor": "rgba(255,255,255,1)",
+          "bordercolor": "transparent",
+          "borderwidth": 1.88976377952756
+        },
+        "margin": {
+          "b": 60,
+          "l": 25,
+          "r": 20,
+          "t": 100,
+          "pad": 0
+        },
+        "shapes": [
+          {
+            "x0": 0,
+            "x1": 0.325505544683627,
+            "y0": 0.512665362035225,
+            "y1": 1,
+            "line": {
+              "color": null,
+              "width": 0,
+              "linetype": []
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": null
+          },
+          {
+            "x0": 0,
+            "x1": 0.32550554468362697,
+            "y0": 1,
+            "y1": 1.05765831271091,
+            "line": {
+              "color": "transparent",
+              "width": 0.66417600664176,
+              "linetype": "solid"
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": "rgba(217,217,217,1)"
+          },
+          {
+            "x0": 0.5090233888410026,
+            "x1": 0.65883887801696,
+            "y0": 0.512665362035225,
+            "y1": 1,
+            "line": {
+              "color": null,
+              "width": 0,
+              "linetype": []
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": null
+          },
+          {
+            "x0": 0.34116112198304,
+            "x1": 0.65883887801696,
+            "y0": 1,
+            "y1": 1.05765831271091,
+            "line": {
+              "color": "transparent",
+              "width": 0.66417600664176,
+              "linetype": "solid"
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": "rgba(217,217,217,1)"
+          },
+          {
+            "x0": 0.674494455316373,
+            "x1": 1,
+            "y0": 0.512665362035225,
+            "y1": 1,
+            "line": {
+              "color": null,
+              "width": 0,
+              "linetype": []
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": null
+          },
+          {
+            "x0": 0.674494455316373,
+            "x1": 1,
+            "y0": 1,
+            "y1": 1.05765831271091,
+            "line": {
+              "color": "transparent",
+              "width": 0.66417600664176,
+              "linetype": "solid"
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": "rgba(217,217,217,1)"
+          },
+          {
+            "x0": 1,
+            "x1": 1.03563554555681,
+            "y0": 0.512665362035225,
+            "y1": 1,
+            "line": {
+              "color": "transparent",
+              "width": 0.66417600664176,
+              "linetype": "solid"
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": "rgba(217,217,217,1)"
+          },
+          {
+            "x0": 0,
+            "x1": 0.325505544683627,
+            "y0": 0,
+            "y1": 0.487334637964775,
+            "line": {
+              "color": null,
+              "width": 0,
+              "linetype": []
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": null
+          },
+          {
+            "x0": 0.34116112198304,
+            "x1": 0.65883887801696,
+            "y0": 0,
+            "y1": 0.487334637964775,
+            "line": {
+              "color": null,
+              "width": 0,
+              "linetype": []
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": null
+          },
+          {
+            "x0": 0.674494455316373,
+            "x1": 1,
+            "y0": 0,
+            "y1": 0.487334637964775,
+            "line": {
+              "color": null,
+              "width": 0,
+              "linetype": []
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": null
+          },
+          {
+            "x0": 1,
+            "x1": 1.03563554555681,
+            "y0": -0.021505376344086002,
+            "y1": 0.48733463796477494,
+            "line": {
+              "color": "transparent",
+              "width": 0.66417600664176,
+              "linetype": "solid"
+            },
+            "type": "rect",
+            "xref": "paper",
+            "yref": "paper",
+            "fillcolor": "rgba(217,217,217,1)"
+          }
+        ],
+        "xaxis2": {
+          "type": "linear",
+          "range": [
+            0.4,
+            4.6
+          ],
+          "ticks": "outside",
+          "title": "",
+          "anchor": "y2",
+          "domain": [
+            0.34116112198304,
+            0.6188388780169599
+          ],
+          "ticklen": 3.65296803652968,
+          "showgrid": true,
+          "showline": false,
+          "tickfont": {
+            "size": 11.689497716895,
+            "color": "rgba(77,77,77,1)",
+            "family": ""
+          },
+          "tickmode": "array",
+          "ticktext": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "tickvals": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "zeroline": false,
+          "autorange": false,
+          "gridcolor": "rgba(255,255,255,1)",
+          "gridwidth": 0.66417600664176,
+          "linecolor": null,
+          "linewidth": 0,
+          "tickangle": 0,
+          "tickcolor": "rgba(51,51,51,1)",
+          "tickwidth": 0.66417600664176,
+          "titlefont": {
+            "size": 14.6118721461187,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "hoverformat": ".2f",
+          "showticklabels": true
+        },
+        "xaxis3": {
+          "side": "bottom",
+          "type": "linear",
+          "range": [
+            0.4,
+            4.6
+          ],
+          "ticks": "outside",
+          "title": "",
+          "anchor": "y2",
+          "domain": [
+            0.674494455316373,
+            0.97
+          ],
+          "ticklen": 3.65296803652968,
+          "showgrid": true,
+          "showline": false,
+          "tickfont": {
+            "size": 11.689497716895,
+            "color": "rgba(77,77,77,1)",
+            "family": ""
+          },
+          "tickmode": "array",
+          "ticktext": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "tickvals": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "zeroline": false,
+          "autorange": false,
+          "gridcolor": "rgba(255,255,255,1)",
+          "gridwidth": 0.66417600664176,
+          "linewidth": 0,
+          "tickangle": 0,
+          "tickcolor": "rgba(51,51,51,1)",
+          "tickwidth": 0.66417600664176,
+          "titlefont": {
+            "size": 14.6118721461187,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "hoverformat": ".2f",
+          "showticklabels": true
+        },
+        "yaxis2": {
+          "type": "linear",
+          "range": [
+            0.4,
+            4.6
+          ],
+          "ticks": "outside",
+          "title": "",
+          "anchor": "x",
+          "domain": [
+            0,
+            0.487334637964775
+          ],
+          "ticklen": 3.65296803652968,
+          "showgrid": true,
+          "showline": false,
+          "tickfont": {
+            "size": 11.689497716895,
+            "color": "rgba(77,77,77,1)",
+            "family": ""
+          },
+          "tickmode": "array",
+          "ticktext": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "tickvals": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "zeroline": false,
+          "autorange": false,
+          "gridcolor": "rgba(255,255,255,1)",
+          "gridwidth": 0.66417600664176,
+          "linecolor": null,
+          "linewidth": 0,
+          "tickangle": 0,
+          "tickcolor": "rgba(51,51,51,1)",
+          "tickwidth": 0.66417600664176,
+          "titlefont": {
+            "size": 10,
+            "color": "rgba(0, 0, 0, 1)",
+            "family": ""
+          },
+          "hoverformat": ".2f",
+          "showticklabels": true
+        },
+        "autosize": false,
+        "dragmode": "select",
+        "hovermode": "closest",
+        "titlefont": {
+          "size": 14,
+          "color": "rgba(0, 0, 0, 1)",
+          "family": ""
+        },
+        "showlegend": false,
+        "annotations": [
+          {
+            "x": 0.5,
+            "y": -0.060767998653283736,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 14.6118721461187,
+              "color": "rgba(0, 0, 0, 1)",
+              "family": ""
+            },
+            "text": "Coding Skill",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "center",
+            "yanchor": "top",
+            "showarrow": false,
+            "textangle": 0,
+            "annotationType": "axis"
+          },
+          {
+            "x": -0.030916395960322023,
+            "y": 0.5,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 14.6118721461187,
+              "color": "rgba(0, 0, 0, 1)",
+              "family": ""
+            },
+            "text": "Communication Ability",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "right",
+            "yanchor": "center",
+            "showarrow": false,
+            "textangle": -90,
+            "annotationType": "axis"
+          },
+          {
+            "x": 0.162752772341813,
+            "y": 1,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 11.689497716895,
+              "color": "rgba(26,26,26,1)",
+              "family": ""
+            },
+            "text": "C++",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "center",
+            "yanchor": "bottom",
+            "showarrow": false,
+            "textangle": 0
+          },
+          {
+            "x": 0.5,
+            "y": 1,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 11.689497716895,
+              "color": "rgba(26,26,26,1)",
+              "family": ""
+            },
+            "text": "Java",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "center",
+            "yanchor": "bottom",
+            "showarrow": false,
+            "textangle": 0
+          },
+          {
+            "x": 0.837247227658187,
+            "y": 1,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 11.689497716895,
+              "color": "rgba(26,26,26,1)",
+              "family": ""
+            },
+            "text": "Python",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "center",
+            "yanchor": "bottom",
+            "showarrow": false,
+            "textangle": 0
+          },
+          {
+            "x": 1,
+            "y": 0.7512956207816802,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 11.689497716895,
+              "color": "rgba(26,26,26,1)",
+              "family": ""
+            },
+            "text": "Co doesn't use lang",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "left",
+            "yanchor": "middle",
+            "showarrow": false,
+            "textangle": 90
+          },
+          {
+            "x": 1,
+            "y": 0.243667318982387,
+            "ax": 0,
+            "ay": 0,
+            "font": {
+              "size": 11.689497716895,
+              "color": "rgba(26,26,26,1)",
+              "family": ""
+            },
+            "text": "Co uses\u00a0lang",
+            "xref": "paper",
+            "yref": "paper",
+            "xanchor": "left",
+            "yanchor": "middle",
+            "showarrow": false,
+            "textangle": 90
+          }
+        ],
+        "plot_bgcolor": "rgb(255, 255, 255)",
+        "paper_bgcolor": "rgba(255,255,255,1)"
+      },
+      "data": []
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 14,
+      "color": "rgba(0, 0, 0, 1)",
+      "family": ""
+    },
+    "title": "Communication ability vs. coding skill<br>for different programming languages",
+    "width": 800,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.05547794829615821,
+        4.944522051703841
+      ],
+      "ticks": "outside",
+      "title": "",
+      "anchor": "y2",
+      "domain": [
+        0,
+        0.27550554468362703
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 11.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tickvals": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linewidth": 0,
+      "tickangle": 0,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 12,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0.06246307574741683,
+        4.937536924252583
+      ],
+      "ticks": "outside",
+      "title": "",
+      "anchor": "x",
+      "domain": [
+        0.512665362035225,
+        1
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 11.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tickvals": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linecolor": null,
+      "linewidth": 0,
+      "tickangle": 0,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 12,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "height": 600,
+    "legend": {
+      "font": {
+        "size": 11.689497716895,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "bgcolor": "rgba(255,255,255,1)",
+      "bordercolor": "transparent",
+      "borderwidth": 1.88976377952756
+    },
+    "margin": {
+      "b": 90,
+      "l": 75,
+      "r": 60,
+      "t": 110,
+      "pad": 0
+    },
+    "shapes": [
+      {
+        "x0": 0,
+        "x1": 0.325505544683627,
+        "y0": 0.512665362035225,
+        "y1": 1,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      },
+      {
+        "x0": 0,
+        "x1": 0.32550554468362697,
+        "y0": 1,
+        "y1": 1.05765831271091,
+        "line": {
+          "color": "transparent",
+          "width": 0.66417600664176,
+          "linetype": "solid"
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": "rgba(217,217,217,1)"
+      },
+      {
+        "x0": 0.5090233888410026,
+        "x1": 0.65883887801696,
+        "y0": 0.512665362035225,
+        "y1": 1,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      },
+      {
+        "x0": 0.34116112198304,
+        "x1": 0.65883887801696,
+        "y0": 1,
+        "y1": 1.05765831271091,
+        "line": {
+          "color": "transparent",
+          "width": 0.66417600664176,
+          "linetype": "solid"
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": "rgba(217,217,217,1)"
+      },
+      {
+        "x0": 0.674494455316373,
+        "x1": 1,
+        "y0": 0.512665362035225,
+        "y1": 1,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      },
+      {
+        "x0": 0.674494455316373,
+        "x1": 1,
+        "y0": 1,
+        "y1": 1.05765831271091,
+        "line": {
+          "color": "transparent",
+          "width": 0.66417600664176,
+          "linetype": "solid"
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": "rgba(217,217,217,1)"
+      },
+      {
+        "x0": 1,
+        "x1": 1.03563554555681,
+        "y0": 0.512665362035225,
+        "y1": 1,
+        "line": {
+          "color": "transparent",
+          "width": 0.66417600664176,
+          "linetype": "solid"
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": "rgba(217,217,217,1)"
+      },
+      {
+        "x0": 0,
+        "x1": 0.325505544683627,
+        "y0": 0,
+        "y1": 0.487334637964775,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      },
+      {
+        "x0": 0.34116112198304,
+        "x1": 0.65883887801696,
+        "y0": 0,
+        "y1": 0.487334637964775,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      },
+      {
+        "x0": 0.674494455316373,
+        "x1": 1,
+        "y0": 0,
+        "y1": 0.487334637964775,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      },
+      {
+        "x0": 1,
+        "x1": 1.03563554555681,
+        "y0": -0.021505376344086002,
+        "y1": 0.48733463796477494,
+        "line": {
+          "color": "transparent",
+          "width": 0.66417600664176,
+          "linetype": "solid"
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": "rgba(217,217,217,1)"
+      }
+    ],
+    "xaxis2": {
+      "type": "linear",
+      "range": [
+        1.5,
+        4.5
+      ],
+      "ticks": "outside",
+      "title": "",
+      "anchor": "y2",
+      "domain": [
+        0.34116112198304,
+        0.6188388780169599
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 11.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tickvals": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linecolor": null,
+      "linewidth": 0,
+      "tickangle": 0,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 14.6118721461187,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "xaxis3": {
+      "side": "bottom",
+      "type": "linear",
+      "range": [
+        0.4,
+        4.6
+      ],
+      "ticks": "outside",
+      "title": "",
+      "anchor": "y2",
+      "domain": [
+        0.674494455316373,
+        0.97
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 11.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tickvals": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "zeroline": false,
+      "autorange": false,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linewidth": 0,
+      "tickangle": 0,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 14.6118721461187,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "yaxis2": {
+      "type": "linear",
+      "range": [
+        1.5,
+        4.5
+      ],
+      "ticks": "outside",
+      "title": "",
+      "anchor": "x",
+      "domain": [
+        0,
+        0.487334637964775
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 11.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "tickvals": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linecolor": null,
+      "linewidth": 0,
+      "tickangle": 0,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 14.6118721461187,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "autosize": false,
+    "dragmode": "select",
+    "hovermode": "closest",
+    "titlefont": {
+      "size": 14,
+      "color": "rgba(0, 0, 0, 1)",
+      "family": ""
+    },
+    "showlegend": false,
+    "annotations": [
+      {
+        "x": 0.5,
+        "y": -0.060767998653283736,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 14.6118721461187,
+          "color": "rgba(0, 0, 0, 1)",
+          "family": ""
+        },
+        "text": "Coding Skill",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "top",
+        "showarrow": false,
+        "textangle": 0,
+        "annotationType": "axis"
+      },
+      {
+        "x": -0.030916395960322023,
+        "y": 0.5,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 14.6118721461187,
+          "color": "rgba(0, 0, 0, 1)",
+          "family": ""
+        },
+        "text": "Communication Ability",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "right",
+        "yanchor": "center",
+        "showarrow": false,
+        "textangle": -90,
+        "annotationType": "axis"
+      },
+      {
+        "x": 0.162752772341813,
+        "y": 1,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 11.689497716895,
+          "color": "rgba(26,26,26,1)",
+          "family": ""
+        },
+        "text": "C++",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false,
+        "textangle": 0
+      },
+      {
+        "x": 0.5,
+        "y": 1,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 11.689497716895,
+          "color": "rgba(26,26,26,1)",
+          "family": ""
+        },
+        "text": "Java",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false,
+        "textangle": 0
+      },
+      {
+        "x": 0.837247227658187,
+        "y": 1,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 11.689497716895,
+          "color": "rgba(26,26,26,1)",
+          "family": ""
+        },
+        "text": "Python",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false,
+        "textangle": 0
+      },
+      {
+        "x": 1,
+        "y": 0.7512956207816802,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 11.689497716895,
+          "color": "rgba(26,26,26,1)",
+          "family": ""
+        },
+        "text": "Company doesn't use language",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false,
+        "textangle": 90
+      },
+      {
+        "x": 1,
+        "y": 0.243667318982387,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 11.689497716895,
+          "color": "rgba(26,26,26,1)",
+          "family": ""
+        },
+        "text": "Company uses language",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false,
+        "textangle": 90
+      }
+    ],
+    "breakpoints": [
+      {
+        "type": "width",
+        "frame": "workspace-breakpoint-0",
+        "range": [
+          0,
+          320
+        ]
+      }
+    ],
+    "plot_bgcolor": "rgb(255, 255, 255)",
+    "paper_bgcolor": "rgba(255,255,255,1)"
+  }
+}

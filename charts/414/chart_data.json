@@ -1,0 +1,2203 @@
+{
+  "data": [
+    {
+      "uid": "1af88f",
+      "line": {
+        "dash": "solid",
+        "color": "#1b9e77",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col2",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:1bf2f1",
+      "y": [
+        "4",
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#1b9e77"
+      },
+      "visible": true,
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "a04931",
+      "line": {
+        "dash": "solid",
+        "color": "#d95f02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col3",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:fe106a",
+      "y": [
+        "3",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#d95f02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "54801a",
+      "line": {
+        "dash": "solid",
+        "color": "#7570b3",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col4",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:7479b5",
+      "y": [
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#7570b3"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "bff60f",
+      "line": {
+        "dash": "solid",
+        "color": "#e7298a",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col5",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:a0904b",
+      "y": [
+        "4",
+        "3",
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e7298a"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "fad488",
+      "line": {
+        "dash": "solid",
+        "color": "#66a61e",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col6",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:68ff32",
+      "y": [
+        "3",
+        "4",
+        "4",
+        "3",
+        "4",
+        "2",
+        "3",
+        "3",
+        "4",
+        "3",
+        "2",
+        "3",
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#66a61e"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "68f6cd",
+      "line": {
+        "dash": "solid",
+        "color": "#e6ab02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col7",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:27ca25",
+      "y": [
+        "4",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e6ab02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "6e909e",
+      "line": {
+        "dash": "solid",
+        "color": "#a6761d",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col8",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:02f466",
+      "y": [
+        "3",
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#a6761d"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "dc401a",
+      "line": {
+        "dash": "solid",
+        "color": "#666666",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col9",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:06ef55",
+      "y": [
+        "2",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#666666"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "5f165e",
+      "line": {
+        "dash": "solid",
+        "color": "#1b9e77",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col10",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:11581b",
+      "y": [
+        "4",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#1b9e77"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "960f78",
+      "line": {
+        "dash": "solid",
+        "color": "#d95f02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col11",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:d33e68",
+      "y": [
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#d95f02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "c06a26",
+      "line": {
+        "dash": "solid",
+        "color": "#7570b3",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col12",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:69924f",
+      "y": [
+        "4",
+        "4",
+        "3",
+        "2",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#7570b3"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "bf6fab",
+      "line": {
+        "dash": "solid",
+        "color": "#e7298a",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col13",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:92bc53",
+      "y": [
+        "3",
+        "4",
+        "4",
+        "2",
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e7298a"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "8b8ba7",
+      "line": {
+        "dash": "solid",
+        "color": "#66a61e",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col14",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:8b1054",
+      "y": [
+        "2",
+        "3",
+        "4",
+        "3",
+        "3",
+        "3",
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#66a61e"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "2015d9",
+      "line": {
+        "dash": "solid",
+        "color": "#e6ab02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col15",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:415e17",
+      "y": [
+        "3",
+        "2",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e6ab02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "8a684e",
+      "line": {
+        "dash": "solid",
+        "color": "#a6761d",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col16",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:31cb50",
+      "y": [
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#a6761d"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "a32e60",
+      "line": {
+        "dash": "solid",
+        "color": "#666666",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col17",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:33ff56",
+      "y": [
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#666666"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "ffd2b3",
+      "line": {
+        "dash": "solid",
+        "color": "#1b9e77",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col18",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:6e953b",
+      "y": [
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#1b9e77"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "9d6bc7",
+      "line": {
+        "dash": "solid",
+        "color": "#d95f02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col19",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:d90bfd",
+      "y": [
+        "2",
+        "3",
+        "2",
+        "3",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#d95f02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "26dfaf",
+      "line": {
+        "dash": "solid",
+        "color": "#7570b3",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col20",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:a046c6",
+      "y": [
+        "2",
+        "3",
+        "4",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#7570b3"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "4e7964",
+      "line": {
+        "dash": "solid",
+        "color": "#e7298a",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col21",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:b007b2",
+      "y": [
+        "3",
+        "4",
+        "3",
+        "4",
+        "1",
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e7298a"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "d756de",
+      "line": {
+        "dash": "solid",
+        "color": "#66a61e",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col22",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:11f223",
+      "y": [
+        "2",
+        "3",
+        "3",
+        "1"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#66a61e"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "0c5adb",
+      "line": {
+        "dash": "solid",
+        "color": "#e6ab02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col23",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:cd2e86",
+      "y": [
+        "4",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e6ab02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "c00145",
+      "line": {
+        "dash": "solid",
+        "color": "#a6761d",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col24",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:1f98c3",
+      "y": [
+        "3",
+        "4",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#a6761d"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "0e83f5",
+      "line": {
+        "dash": "solid",
+        "color": "#666666",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col25",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:7ef36c",
+      "y": [
+        "3",
+        "4",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#666666"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "48248d",
+      "line": {
+        "dash": "solid",
+        "color": "#1b9e77",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col26",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:d90f0e",
+      "y": [
+        "3",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#1b9e77"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "533c06",
+      "line": {
+        "dash": "solid",
+        "color": "#d95f02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col27",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:861324",
+      "y": [
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#d95f02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "096454",
+      "line": {
+        "dash": "solid",
+        "color": "#7570b3",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col28",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:fa9555",
+      "y": [
+        "4",
+        "2",
+        "3",
+        "4",
+        "4",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#7570b3"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "f378db",
+      "line": {
+        "dash": "solid",
+        "color": "#e7298a",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col29",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:6aeefc",
+      "y": [
+        "3",
+        "3",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e7298a"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "1befd1",
+      "line": {
+        "dash": "solid",
+        "color": "#66a61e",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col30",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:4b15e0",
+      "y": [
+        "4",
+        "2",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#66a61e"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "ab186b",
+      "line": {
+        "dash": "solid",
+        "color": "#e6ab02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col31",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:02858e",
+      "y": [
+        "4",
+        "3",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e6ab02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "f29dad",
+      "line": {
+        "dash": "solid",
+        "color": "#a6761d",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col32",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:ed243a",
+      "y": [
+        "2",
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#a6761d"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "511038",
+      "line": {
+        "dash": "solid",
+        "color": "#666666",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col33",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:e8e73f",
+      "y": [
+        "3",
+        "3",
+        "2",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#666666"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "540863",
+      "line": {
+        "dash": "solid",
+        "color": "#1b9e77",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col34",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:ac83ef",
+      "y": [
+        "2",
+        "3",
+        "3",
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#1b9e77"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "f8ccf6",
+      "line": {
+        "dash": "solid",
+        "color": "#d95f02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col35",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:9c4345",
+      "y": [
+        "3",
+        "2",
+        "3",
+        "2",
+        "3",
+        "3",
+        "1",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#d95f02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "ab63b5",
+      "line": {
+        "dash": "solid",
+        "color": "#7570b3",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col36",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:a12eff",
+      "y": [
+        "3",
+        "3",
+        "2",
+        "4",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#7570b3"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "ce4158",
+      "line": {
+        "dash": "solid",
+        "color": "#e7298a",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col37",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:050ca8",
+      "y": [
+        "3",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e7298a"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "985c49",
+      "line": {
+        "dash": "solid",
+        "color": "#66a61e",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col38",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:0ff5db",
+      "y": [
+        "2",
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#66a61e"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "1fe5cb",
+      "line": {
+        "dash": "solid",
+        "color": "#e6ab02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col39",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:801644",
+      "y": [
+        "3",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e6ab02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "e9d9ba",
+      "line": {
+        "dash": "solid",
+        "color": "#a6761d",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col40",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:5e93a1",
+      "y": [
+        "2",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#a6761d"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "78c1db",
+      "line": {
+        "dash": "solid",
+        "color": "#666666",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col41",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:b5d6da",
+      "y": [
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#666666"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "907611",
+      "line": {
+        "dash": "solid",
+        "color": "#1b9e77",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col42",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:edd700",
+      "y": [
+        "4",
+        "4"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#1b9e77"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "ab62e8",
+      "line": {
+        "dash": "solid",
+        "color": "#d95f02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col43",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:a7668c",
+      "y": [
+        "2",
+        "1",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#d95f02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "21ee93",
+      "line": {
+        "dash": "solid",
+        "color": "#7570b3",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col44",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:7d7b0e",
+      "y": [
+        "4",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#7570b3"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "720b84",
+      "line": {
+        "dash": "solid",
+        "color": "#e7298a",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col45",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:6b71d4",
+      "y": [
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e7298a"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "258410",
+      "line": {
+        "dash": "solid",
+        "color": "#66a61e",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col46",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:699318",
+      "y": [
+        "2",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#66a61e"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "93a561",
+      "line": {
+        "dash": "solid",
+        "color": "#e6ab02",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col47",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:6c95d8",
+      "y": [
+        "3",
+        "4",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#e6ab02"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "879ac4",
+      "line": {
+        "dash": "solid",
+        "color": "#a6761d",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col48",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:5a77e7",
+      "y": [
+        "4",
+        "2",
+        "4",
+        "3",
+        "4",
+        "3",
+        "3",
+        "3",
+        "4",
+        "4",
+        "3"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#a6761d"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    },
+    {
+      "uid": "9fd5d1",
+      "line": {
+        "dash": "solid",
+        "color": "#666666",
+        "shape": "spline",
+        "width": 1
+      },
+      "mode": "lines",
+      "name": "Col49",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:368:5bcad2",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "ysrc": "aline_interviewingio:368:55ed0f",
+      "y": [
+        "2",
+        "3",
+        "2"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        },
+        "size": 14,
+        "color": "#666666"
+      },
+      "showlegend": false,
+      "connectgaps": true
+    }
+  ],
+  "layout": {
+    "title": "Interviewee Performance Over Time (n=201)",
+    "width": 2500,
+    "xaxis": {
+      "type": "log",
+      "range": [
+        -0.00877392430750515,
+        1.1613680022349748
+      ],
+      "title": "Interview #",
+      "showline": true,
+      "autorange": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0.98,
+        4.166666666666667
+      ],
+      "title": "Technical Score",
+      "showline": true,
+      "autorange": false
+    },
+    "height": 1121,
+    "margin": {
+      "autoexpand": true
+    },
+    "autosize": false
+  }
+}

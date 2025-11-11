@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "uid": "5cb8f2",
+      "mode": "markers",
+      "name": "% of Students",
+      "type": "choropleth",
+      "zmax": 25.1,
+      "zmin": 0.40000000000000036,
+      "zsrc": "aline_interviewingio:1039:0bfeb1",
+      "z": [
+        "0.4",
+        "1.8",
+        "25.1",
+        "0.7",
+        "0.4",
+        "0.7",
+        "0.4",
+        "2.5",
+        "2.8",
+        "0.4",
+        "4.2",
+        "0.7",
+        "13.4",
+        "4.6",
+        "1.1",
+        "0.4",
+        "2.5",
+        "0.4",
+        "0.7",
+        "2.8",
+        "9.2",
+        "1.1",
+        "0.4",
+        "9.2",
+        "1.8",
+        "7.1",
+        "1.8",
+        "2.8",
+        "1.1"
+      ],
+      "zauto": false,
+      "autobinx": true,
+      "autobiny": true,
+      "colorbar": {
+        "title": "% of Students"
+      },
+      "colorscale": [
+        [
+          0,
+          "rgb(222, 183, 175)"
+        ],
+        [
+          0.35,
+          "rgb(207, 131, 113)"
+        ],
+        [
+          0.5,
+          "rgb(192, 88, 64)"
+        ],
+        [
+          0.6,
+          "rgb(182, 59, 37)"
+        ],
+        [
+          0.7,
+          "rgb(150, 19, 27)"
+        ],
+        [
+          1,
+          "rgb(144, 19, 28)"
+        ]
+      ],
+      "locationmode": "USA-states",
+      "locationssrc": "aline_interviewingio:1039:2b059a",
+      "locations": [
+        "AL",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DL",
+        "FL",
+        "GA",
+        "ID",
+        "IL",
+        "IN",
+        "MA",
+        "MD",
+        "MI",
+        "MN",
+        "NC",
+        "NE",
+        "NH",
+        "NJ",
+        "NY",
+        "OH",
+        "OR",
+        "PA",
+        "RI",
+        "TX",
+        "VA",
+        "WA",
+        "WI"
+      ],
+      "reversescale": false,
+      "autocolorscale": false
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "geo": {
+      "scope": "usa",
+      "center": {
+        "lat": 38.64549478773114,
+        "lon": -96.18412428298952
+      },
+      "lataxis": {
+        "showline": true
+      },
+      "lonaxis": {
+        "showline": false
+      },
+      "projection": {
+        "scale": 0.9848664428955508
+      }
+    },
+    "title": "Geographic distribution of students on interviewing.io",
+    "legend": {
+      "traceorder": "normal",
+      "orientation": "h"
+    },
+    "autosize": true,
+    "hovermode": false,
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

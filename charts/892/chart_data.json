@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "uid": "3b07c2",
+      "name": "% of Rejections",
+      "type": "bar",
+      "xsrc": "elliotk:20:9a4014",
+      "x": [
+        "Bad Company",
+        "Other",
+        "Insufficient Compensation",
+        "Bad Location",
+        "Already Found",
+        "No Need Change"
+      ],
+      "ysrc": "elliotk:20:d3d967",
+      "y": [
+        "37.57%",
+        "16.97%",
+        "16.54%",
+        "16.14%",
+        "9.21%",
+        "3.58%"
+      ],
+      "marker": {
+        "color": "rgb(75, 155, 218)"
+      },
+      "error_x": {},
+      "error_y": {},
+      "textfont": {}
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 14,
+      "color": "#444",
+      "family": "\"Open sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": "Most Rejections Aren't About Money",
+    "width": 760,
+    "xaxis": {
+      "type": "category",
+      "dtick": 1,
+      "range": [
+        -0.535735869182659,
+        5.835283410089497
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "Rejection Reason",
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 0,
+      "ticklen": 5,
+      "position": 0,
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 0,
+        "color": "",
+        "family": ""
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": false,
+      "gridcolor": "rgb(217, 217, 217)",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "tickcolor": "#444",
+      "tickwidth": 1,
+      "titlefont": {
+        "size": 0,
+        "color": "",
+        "family": ""
+      },
+      "overlaying": false,
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "-",
+      "dtick": 10,
+      "range": [
+        -0.0948674749699745,
+        41.89797363419755
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "% of Rejections",
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 0,
+      "ticklen": 5,
+      "position": 0,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 0,
+        "color": "",
+        "family": ""
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": false,
+      "gridcolor": "rgb(217, 217, 217)",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "tickcolor": "#444",
+      "tickwidth": 1,
+      "titlefont": {
+        "size": 0,
+        "color": "",
+        "family": ""
+      },
+      "overlaying": false,
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.2,
+    "boxgap": 0.3,
+    "height": 472,
+    "legend": {
+      "x": 1.02,
+      "y": 1,
+      "font": {
+        "size": 0,
+        "color": "",
+        "family": ""
+      },
+      "bgcolor": "rgb(245, 245, 245)",
+      "xanchor": "left",
+      "yanchor": "top",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "margin": {
+      "b": 160,
+      "l": 80,
+      "r": 80,
+      "t": 80,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "barmode": "group",
+    "boxmode": "overlay",
+    "autosize": false,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "titlefont": {
+      "size": 0,
+      "color": "",
+      "family": ""
+    },
+    "separators": ".,",
+    "showlegend": false,
+    "bargroupgap": 0,
+    "boxgroupgap": 0.3,
+    "hidesources": false,
+    "plot_bgcolor": "rgb(255, 255, 255)",
+    "paper_bgcolor": "rgb(255, 255, 255)"
+  }
+}

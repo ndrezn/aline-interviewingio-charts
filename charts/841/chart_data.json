@@ -1,0 +1,358 @@
+{
+  "data": [
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(248,118,109)",
+        "width": 3.77952755905512
+      },
+      "name": "2.25",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:f766d9",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:842:215cd1",
+      "y": [
+        0,
+        1,
+        16,
+        37,
+        306,
+        446,
+        741,
+        1131,
+        3023,
+        1442,
+        1207,
+        1347,
+        215,
+        64,
+        23,
+        1,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(248,118,109,0.2)",
+      "showlegend": false
+    },
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(196,154,0)",
+        "width": 3.77952755905512
+      },
+      "name": "2.5",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:6b125d",
+      "x": [
+        0.2,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.8
+      ],
+      "ysrc": "aline_interviewingio:842:36a0c3",
+      "y": [
+        0,
+        8,
+        28,
+        186,
+        633,
+        1347,
+        2182,
+        3408,
+        1417,
+        576,
+        177,
+        33,
+        4,
+        1,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(196,154,0,0.2)",
+      "showlegend": false
+    },
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(83,180,0)",
+        "width": 3.77952755905512
+      },
+      "name": "2.75",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:6d2071",
+      "x": [
+        0.15,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.65
+      ],
+      "ysrc": "aline_interviewingio:842:361198",
+      "y": [
+        0,
+        14,
+        92,
+        392,
+        1824,
+        2204,
+        2306,
+        2272,
+        639,
+        225,
+        29,
+        3,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(83,180,0,0.2)",
+      "showlegend": false
+    },
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(0,192,148)",
+        "width": 3.77952755905512
+      },
+      "name": "3",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:6ba10c",
+      "x": [
+        0,
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.3
+      ],
+      "ysrc": "aline_interviewingio:842:94d74b",
+      "y": [
+        0,
+        4,
+        351,
+        2896,
+        5369,
+        1248,
+        126,
+        6,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(0,192,148,0.2)",
+      "showlegend": false
+    },
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(0,182,235)",
+        "width": 3.77952755905512
+      },
+      "name": "3.25",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:6ba10c",
+      "x": [
+        0,
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.3
+      ],
+      "ysrc": "aline_interviewingio:842:71d1c6",
+      "y": [
+        0,
+        144,
+        2577,
+        4810,
+        2124,
+        327,
+        17,
+        1,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(0,182,235,0.2)",
+      "showlegend": false
+    },
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(165,138,255)",
+        "width": 3.77952755905512
+      },
+      "name": "3.5",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:fe89cd",
+      "x": [
+        0,
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.25
+      ],
+      "ysrc": "aline_interviewingio:842:20bf5b",
+      "y": [
+        0,
+        1286,
+        5527,
+        2723,
+        436,
+        22,
+        6,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(165,138,255,0.2)",
+      "showlegend": false
+    },
+    {
+      "fill": "tozeroy",
+      "line": {
+        "dash": "solid",
+        "color": "rgb(251,97,215)",
+        "width": 3.77952755905512
+      },
+      "name": "3.75",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:842:debd2f",
+      "x": [
+        0,
+        0,
+        0
+      ],
+      "ysrc": "aline_interviewingio:842:ee15c8",
+      "y": [
+        0,
+        10000,
+        0
+      ],
+      "xaxis": "x1",
+      "yaxis": "y1",
+      "fillcolor": "rgba(251,97,215,0.2)",
+      "showlegend": false
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "linear",
+      "ticks": "outside",
+      "title": "P(fail)",
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 9.6,
+        "color": "rgb(0,0,0)",
+        "family": ""
+      },
+      "zeroline": false,
+      "tickangle": 0,
+      "tickcolor": "rgb(0,0,0)",
+      "titlefont": {
+        "size": 12,
+        "color": "rgb(0,0,0)",
+        "family": ""
+      },
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "ticks": "outside",
+      "title": "Number of Simulations",
+      "showgrid": false,
+      "showline": false,
+      "tickfont": {
+        "size": 9.6,
+        "color": "rgb(0,0,0)",
+        "family": ""
+      },
+      "zeroline": false,
+      "tickangle": 0,
+      "tickcolor": "rgb(0,0,0)",
+      "titlefont": {
+        "size": 12,
+        "color": "rgb(0,0,0)",
+        "family": ""
+      },
+      "showticklabels": true
+    },
+    "legend": {
+      "x": 1.01,
+      "y": 0.7125,
+      "font": {
+        "family": ""
+      },
+      "xref": "paper",
+      "yref": "paper",
+      "bgcolor": "rgb(255,255,255)",
+      "xanchor": "left",
+      "yanchor": "top",
+      "bordercolor": "transparent"
+    },
+    "margin": {
+      "r": 10
+    },
+    "titlefont": {
+      "family": ""
+    },
+    "showlegend": false,
+    "plot_bgcolor": "rgb(255,255,255)",
+    "paper_bgcolor": "rgb(255,255,255)"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "uid": "8c55e4",
+      "name": "Actual",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:986:39ede0",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:986:1380c6",
+      "y": [
+        "5",
+        "51",
+        "132",
+        "66"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "opacity": 0.75
+    },
+    {
+      "uid": "31f9e9",
+      "name": "Perceived",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:986:39ede0",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:986:68d365",
+      "y": [
+        "33",
+        "70",
+        "105",
+        "46"
+      ],
+      "marker": {
+        "line": {
+          "width": 0.5
+        }
+      }
+    }
+  ],
+  "layout": {
+    "title": "Actual & Perceived Performance by Score (n=254)",
+    "width": 1332,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "Score (on a Scale of 1 to 4)",
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        138.94736842105263
+      ],
+      "title": "Frequency",
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "bargap": 0.15,
+    "height": 711,
+    "legend": {
+      "font": {
+        "size": 16
+      }
+    },
+    "barnorm": "",
+    "autosize": true,
+    "titlefont": {
+      "size": 20
+    },
+    "bargroupgap": 0,
+    "plot_bgcolor": "rgba(255, 255, 255, 0)"
+  }
+}

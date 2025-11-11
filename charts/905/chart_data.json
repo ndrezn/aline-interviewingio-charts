@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "uid": "741045",
+      "line": {
+        "color": "rgb(0, 1, 83)",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "UC-Berkeley"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "UC-Berkeley",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:904:d5700d",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "aline_interviewingio:904:db3612",
+      "y": [
+        "156",
+        "179",
+        "213",
+        "282",
+        "381",
+        "451",
+        "575",
+        "681",
+        "758"
+      ],
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "size": 12
+      }
+    },
+    {
+      "uid": "015368",
+      "line": {
+        "color": "rgb(163, 31, 52)",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "MIT"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "MIT",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:904:d5700d",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "aline_interviewingio:904:561820",
+      "y": [
+        "186",
+        "210",
+        "282",
+        "334",
+        "386",
+        "445",
+        "463",
+        "518",
+        "477"
+      ],
+      "marker": {
+        "size": 12
+      }
+    },
+    {
+      "uid": "9a397b",
+      "line": {
+        "color": "rgb(41, 119, 27)",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Stanford"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "Stanford",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:904:d5700d",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "aline_interviewingio:904:3763a9",
+      "y": [
+        "47",
+        "60",
+        "75",
+        "108",
+        "162",
+        "200",
+        "220",
+        "227",
+        "261"
+      ],
+      "marker": {
+        "size": 12
+      }
+    },
+    {
+      "uid": "40086d",
+      "fill": "none",
+      "line": {
+        "color": "rgb(68, 68, 68)",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "Year",
+          "y": "Total"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Total",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:904:d5700d",
+      "x": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+      ],
+      "ysrc": "aline_interviewingio:904:1134b1",
+      "y": [
+        "389",
+        "449",
+        "570",
+        "724",
+        "929",
+        "1096",
+        "1258",
+        "1426",
+        "1496"
+      ],
+      "marker": {
+        "size": 12,
+        "color": "rgb(65, 60, 60)"
+      }
+    },
+    {
+      "uid": "dad907",
+      "transforms": [
+        {
+          "rms": "",
+          "type": "fit",
+          "inputUid": "40086d",
+          "regressor": "x",
+          "parameters": [
+            {
+              "hold": false,
+              "name": "m",
+              "error": 6.011731256083613,
+              "value": 151.78333333318525
+            },
+            {
+              "hold": false,
+              "name": "b",
+              "error": 12107.63669965185,
+              "value": -304765.2999997018
+            }
+          ],
+          "regressand": "y",
+          "correlation": "",
+          "fitfunction": "m*x + b",
+          "inputxrange": [],
+          "outputxrange": [],
+          "interpolation": 50
+        }
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 20
+      },
+      "text": "Growth in women's undergraduate computer science enrollment at top schools"
+    },
+    "width": 1159.77,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "range": [
+        2009.4748941318815,
+        2018.5251058681185
+      ],
+      "title": {
+        "font": {
+          "size": 16
+        },
+        "text": "Year"
+      },
+      "domain": [
+        0,
+        1
+      ],
+      "nticks": 0,
+      "showgrid": false,
+      "showline": true,
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "automargin": false,
+      "showticklabels": true,
+      "separatethousands": false
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -63.84243515850203,
+        1617.5355667627364
+      ],
+      "title": {
+        "font": {
+          "size": 16
+        },
+        "text": "# of Students Enrolled"
+      },
+      "showline": true,
+      "zeroline": false,
+      "autorange": true
+    },
+    "height": 651.389,
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 0.0034063260340632673,
+        "y": 1.0199858215436386,
+        "text": "Sources: <a href=\"https://pages.github.berkeley.edu/OPA/our-berkeley/student-headcount-by-major.html\">UC-Berkeley</a>, MIT (<a href=\"http://web.mit.edu/fnl/volume/305/bucciarelli.html\">1</a> and <a href=\"https://registrar.mit.edu/statistics-reports/enrollment-statistics-year\">2</a>), and <a href=\"https://registrar.stanford.edu/everyone/enrollment-statistics\">Stanford</a> enrollment data",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "left",
+        "showarrow": false
+      },
+      {
+        "x": 2009.8487457627118,
+        "y": 95.52494497432134,
+        "font": {
+          "size": 18
+        },
+        "text": "",
+        "xref": "x",
+        "yref": "y",
+        "showarrow": false
+      },
+      {
+        "x": 2010.1229671754961,
+        "y": 1349.868255789127,
+        "font": {
+          "size": 20
+        },
+        "text": "",
+        "xref": "x",
+        "yref": "y",
+        "showarrow": false
+      }
+    ]
+  }
+}

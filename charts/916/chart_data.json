@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "uid": "e87a58",
+      "mode": "lines+markers",
+      "name": "Number of Signups",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:915:b60afc",
+      "x": [
+        "Aug 2015",
+        "Sep 2015",
+        "Oct 2015",
+        "Nov 2015",
+        "Dec 2015",
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016",
+        "Nov 2016",
+        "Dec 2016",
+        "Jan 2017"
+      ],
+      "ysrc": "aline_interviewingio:915:a89a03",
+      "y": [
+        "191",
+        "277",
+        "261",
+        "179",
+        "404",
+        "313",
+        "716",
+        "444",
+        "390",
+        "801",
+        "1125",
+        "1261",
+        "765",
+        "1857",
+        "786",
+        "968",
+        "1753",
+        "1880"
+      ],
+      "marker": {
+        "size": 12,
+        "opacity": 1
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "c30af4",
+      "line": {
+        "dash": "dash"
+      },
+      "opacity": 0.30000000000000004,
+      "transforms": [
+        {
+          "rms": 259.36517517612333,
+          "type": "fit",
+          "xmid": 7,
+          "ymid": 14,
+          "inputUid": "e87a58",
+          "regressor": "x",
+          "weightsrc": "FIT_WEIGHT_UNIFORM",
+          "parameters": [
+            {
+              "hold": false,
+              "name": "a",
+              "error": 248.8893541434386,
+              "value": 179.66666666676383
+            },
+            {
+              "hold": false,
+              "name": "b",
+              "error": 130.53128929344328,
+              "value": 29.238476091819997
+            },
+            {
+              "hold": false,
+              "name": "c",
+              "error": 18.150825877074364,
+              "value": 4.2755417957360935
+            },
+            {
+              "hold": false,
+              "name": "d",
+              "error": 0.7009660746157854,
+              "value": -0.04136566907768968
+            }
+          ],
+          "regressand": "y",
+          "correlation": 0.8941317576088516,
+          "fitfunction": "a + b*x + c*x^2 + d*x^3",
+          "inputxrange": [],
+          "outputxrange": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "",
+    "xaxis": {
+      "type": "category",
+      "dtick": 2,
+      "range": [
+        -1.012635379061372,
+        18.012635379061372
+      ],
+      "ticks": "outside",
+      "title": "",
+      "nticks": 0,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "tickmode": "linear",
+      "autorange": true,
+      "titlefont": {
+        "size": 20
+      },
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        72.34096757591355,
+        1986.6590324240865
+      ],
+      "title": "",
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 20
+      }
+    },
+    "margin": {
+      "b": 40,
+      "l": 40,
+      "r": 40,
+      "t": 0,
+      "pad": 0
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": false,
+    "annotations": [],
+    "breakpoints": []
+  }
+}

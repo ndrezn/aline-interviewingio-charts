@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "uid": "abb4e7",
+      "mode": "markers",
+      "name": "Elite",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1054:516c64",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1054:f4bbdf",
+      "y": [
+        "3",
+        "32",
+        "51",
+        "14"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "e2e5c7",
+      "name": "Top 10",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1054:516c64",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1054:e3afb0",
+      "y": [
+        "2",
+        "26",
+        "41",
+        "31"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "f67a2b",
+      "name": "Top 50",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1054:516c64",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1054:d600df",
+      "y": [
+        "2",
+        "31",
+        "48",
+        "19"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "06e0df",
+      "name": "Everyone else",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1054:516c64",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1054:6f7c3f",
+      "y": [
+        "2",
+        "41",
+        "42",
+        "15"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "New Grad Interview Performance by School Tier",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "Technical Score",
+      "nticks": 5,
+      "showline": true,
+      "autorange": true,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        53.68421052631579
+      ],
+      "title": "% of Students",
+      "showline": true,
+      "autorange": true
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

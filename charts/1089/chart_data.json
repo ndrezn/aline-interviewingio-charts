@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "uid": "c39e00",
+      "mode": "markers",
+      "name": "P(Will Interview)",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1088:a1164e",
+      "x": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:1088:ac9812",
+      "y": [
+        "0.8541666667",
+        "0.6790123457",
+        "0.7419354839",
+        "0.6774193548",
+        "0.5333333333",
+        "0.5",
+        "0.3333333333",
+        "0.1428571429",
+        "0.1428571429",
+        "",
+        "0.25",
+        "0.1111111111",
+        "0.1428571429",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "117859",
+      "name": "P(Will Interview)",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1088:a1164e",
+      "x": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:1088:ac9812",
+      "y": [
+        "0.8541666667",
+        "0.6790123457",
+        "0.7419354839",
+        "0.6774193548",
+        "0.5333333333",
+        "0.5",
+        "0.3333333333",
+        "0.1428571429",
+        "0.1428571429",
+        "",
+        "0.25",
+        "0.1111111111",
+        "0.1428571429",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      "autobinx": true,
+      "autobiny": true,
+      "transforms": [
+        {
+          "rms": 0.08728553503805847,
+          "type": "fit",
+          "xmid": 9.000000000000004,
+          "ymid": 0.18479529540567816,
+          "inputUid": "c39e00",
+          "regressor": "x",
+          "parameters": [
+            {
+              "hold": false,
+              "name": "b",
+              "error": 0.0565959502069879,
+              "value": 0.9656168900748616
+            },
+            {
+              "hold": true,
+              "name": "a",
+              "error": 0.058426994423329666,
+              "value": -0.05
+            },
+            {
+              "hold": false,
+              "name": "c",
+              "error": 0.014999136995328396,
+              "value": -0.1545565333027504
+            }
+          ],
+          "regressand": "y",
+          "correlation": 0.9539203729021352,
+          "fitfunction": "a + b*exp(c*x)",
+          "inputxrange": [],
+          "outputxrange": [],
+          "interpolation": 50
+        }
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Probability\u00a0 Candidate Will Interview as a Function of Wait Time",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        -1.0044472681067345,
+        18.004447268106734
+      ],
+      "title": "Wait time (weeks)",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -0.05708373888040687,
+        0.9668116600198757
+      ],
+      "title": "P(Will interview)",
+      "autorange": true
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": false,
+    "breakpoints": []
+  }
+}

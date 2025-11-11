@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "uid": "0e068d",
+      "mode": "markers",
+      "name": "Effect size",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:996:1cde5a",
+      "x": [
+        "Coursera/Udacity",
+        "Top company",
+        "Top school",
+        "Founded a startup",
+        "Master's degree",
+        "Years of experience"
+      ],
+      "ysrc": "aline_interviewingio:996:f250eb",
+      "y": [
+        "0.607",
+        "0.395",
+        "0.268",
+        "0",
+        "0",
+        "0"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "What Matters When It Comes to Interview Performance?",
+    "xaxis": {
+      "side": "bottom",
+      "type": "category",
+      "range": [
+        -0.5,
+        5.5
+      ],
+      "title": "Interviewee attribute",
+      "showgrid": false,
+      "showline": true,
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        0.6389473684210526
+      ],
+      "title": "Effect size",
+      "showgrid": false,
+      "showline": true,
+      "zeroline": false,
+      "autorange": true
+    },
+    "margin": {
+      "l": 80,
+      "pad": 1
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "breakpoints": []
+  }
+}

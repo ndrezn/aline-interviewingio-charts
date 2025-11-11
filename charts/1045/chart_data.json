@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "uid": "2fa259",
+      "mode": "markers",
+      "name": "% of Students",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1044:932cf6",
+      "x": [
+        "Elite",
+        "Top 10",
+        "Top 50",
+        "Other"
+      ],
+      "ysrc": "aline_interviewingio:1044:494c95",
+      "y": [
+        "18.3",
+        "25.0",
+        "39.4",
+        "17.3"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        }
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Distribution of school tiers on interviewing.io",
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        3.5
+      ],
+      "title": "School Tier",
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        41.473684210526315
+      ],
+      "title": "% of Students",
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 14
+      }
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "breakpoints": []
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": [
+    {
+      "uid": "aef8c6",
+      "line": {
+        "color": "rgb(23, 190, 207)"
+      },
+      "mode": "lines+markers",
+      "name": "Number of Practice Interviews",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:917:7b09db",
+      "x": [
+        "Aug 2015",
+        "Sep 2015",
+        "Oct 2015",
+        "Nov 2015",
+        "Dec 2015",
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016",
+        "Nov 2016",
+        "Dec 2016",
+        "Jan 2017"
+      ],
+      "ysrc": "aline_interviewingio:917:360a56",
+      "y": [
+        "46",
+        "34",
+        "49",
+        "32",
+        "29",
+        "50",
+        "46",
+        "102",
+        "77",
+        "95",
+        "98",
+        "111",
+        "144",
+        "187",
+        "189",
+        "130",
+        "126",
+        "221"
+      ],
+      "marker": {
+        "size": 12
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "5a7192",
+      "line": {
+        "dash": "dash"
+      },
+      "name": "Number of Practice Interviews",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:917:7b09db",
+      "x": [
+        "Aug 2015",
+        "Sep 2015",
+        "Oct 2015",
+        "Nov 2015",
+        "Dec 2015",
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016",
+        "Nov 2016",
+        "Dec 2016",
+        "Jan 2017"
+      ],
+      "ysrc": "aline_interviewingio:917:360a56",
+      "y": [
+        "46",
+        "34",
+        "49",
+        "32",
+        "29",
+        "50",
+        "46",
+        "102",
+        "77",
+        "95",
+        "98",
+        "111",
+        "144",
+        "187",
+        "189",
+        "130",
+        "126",
+        "221"
+      ],
+      "opacity": 0.30000000000000004,
+      "autobinx": true,
+      "autobiny": true,
+      "transforms": [
+        {
+          "rms": 15.619211368236428,
+          "type": "fit",
+          "xmid": 7,
+          "ymid": 14,
+          "inputUid": "aef8c6",
+          "regressor": "x",
+          "weightsrc": "FIT_WEIGHT_UNIFORM",
+          "parameters": [
+            {
+              "hold": false,
+              "name": "a",
+              "error": 20.6699139658617,
+              "value": 44.33918128667279
+            },
+            {
+              "hold": false,
+              "name": "b",
+              "error": 10.840441644594456,
+              "value": -8.512785231141214
+            },
+            {
+              "hold": false,
+              "name": "c",
+              "error": 1.5074007909284113,
+              "value": 2.287882696951104
+            },
+            {
+              "hold": false,
+              "name": "d",
+              "error": 0.058214255508050865,
+              "value": -0.07747104689876758
+            }
+          ],
+          "regressand": "y",
+          "correlation": 0.9565753247980646,
+          "fitfunction": "a + b*x + c*x^2 + d*x^3",
+          "inputxrange": [],
+          "outputxrange": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "483e8f",
+      "mode": "lines+markers",
+      "name": "Regular Interviews",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:917:7b09db",
+      "x": [
+        "Aug 2015",
+        "Sep 2015",
+        "Oct 2015",
+        "Nov 2015",
+        "Dec 2015",
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016",
+        "Nov 2016",
+        "Dec 2016",
+        "Jan 2017"
+      ],
+      "ysrc": "aline_interviewingio:917:8631b3",
+      "y": [
+        "46",
+        "34",
+        "49",
+        "32",
+        "29",
+        "50",
+        "46",
+        "102",
+        "77",
+        "95",
+        "98",
+        "111",
+        "108",
+        "70"
+      ],
+      "marker": {
+        "line": {
+          "width": 1
+        },
+        "size": 13,
+        "symbol": "circle"
+      },
+      "opacity": 0,
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "",
+    "xaxis": {
+      "type": "category",
+      "dtick": 2,
+      "range": [
+        -1.0180559735179056,
+        18.0129401143545
+      ],
+      "title": "",
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "tickmode": "linear",
+      "autorange": true,
+      "titlefont": {
+        "size": 20
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        16.851438625099235,
+        233.04557255347908
+      ],
+      "title": "",
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true,
+      "titlefont": {
+        "size": 20
+      }
+    },
+    "margin": {
+      "b": 40,
+      "l": 40,
+      "r": 40,
+      "t": 0
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": false,
+    "breakpoints": []
+  }
+}

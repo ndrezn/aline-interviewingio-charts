@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "uid": "13a64d",
+      "mode": "markers",
+      "name": "Revenue",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:925:d22c6b",
+      "x": [
+        "Q1 2016",
+        "Q2 2016",
+        "Q3 2016",
+        "Q4 2016",
+        "Q1 2017"
+      ],
+      "ysrc": "aline_interviewingio:925:3e687b",
+      "y": [
+        "15037",
+        "15318",
+        "31736",
+        "61532"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    },
+    {
+      "uid": "8be35e",
+      "name": "Projected Revenue",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:925:d22c6b",
+      "x": [
+        "Q1 2016",
+        "Q2 2016",
+        "Q3 2016",
+        "Q4 2016",
+        "Q1 2017"
+      ],
+      "ysrc": "aline_interviewingio:925:f377b6",
+      "y": [
+        null,
+        null,
+        null,
+        "",
+        "120000"
+      ],
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "opacity": 0.5000000000000001,
+      "autobinx": true,
+      "autobiny": true,
+      "showlegend": false
+    }
+  ],
+  "layout": {
+    "title": "Revenue by Quarter",
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        4.5
+      ],
+      "title": "Quarter",
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        126315.78947368421
+      ],
+      "title": "Revenue",
+      "showline": true,
+      "autorange": true
+    },
+    "bargap": 0.20999999999999996,
+    "barmode": "stack",
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true,
+    "bargroupgap": 0
+  }
+}

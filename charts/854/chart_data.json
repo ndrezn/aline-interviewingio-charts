@@ -1,0 +1,683 @@
+{
+  "data": [
+    {
+      "uid": "d3d670",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(255, 15, 95)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "2.25, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:58626b",
+      "y": [
+        0,
+        1,
+        16,
+        37,
+        306,
+        446,
+        741,
+        1131,
+        3023,
+        1442,
+        1207,
+        1347,
+        215,
+        64,
+        23,
+        1,
+        0
+      ],
+      "fillcolor": "rgba(255, 15, 95, 0.34)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "0f5c8d",
+      "fill": "tonexty",
+      "line": {
+        "color": "#d73027",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "2.5, x",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:172caa",
+      "y": [
+        0.2,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.8
+      ],
+      "fillcolor": "rgba(255, 15, 95, 0.35)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "5fdff4",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(230, 59, 168)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "2.5, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:d168b4",
+      "y": [
+        0,
+        8,
+        28,
+        186,
+        633,
+        1347,
+        2182,
+        3408,
+        1417,
+        576,
+        177,
+        33,
+        4,
+        1,
+        0
+      ],
+      "fillcolor": "rgba(230, 59, 168, 0.57)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "c7a372",
+      "fill": "tonexty",
+      "line": {
+        "color": "#fdae61",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "2.75, x",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:aab8c0",
+      "y": [
+        0.15,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.65
+      ],
+      "fillcolor": "rgba(230, 59, 184, 0.4)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "bee44a",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(201, 41, 205)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "2.75, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:023f0a",
+      "y": [
+        0,
+        14,
+        92,
+        392,
+        1824,
+        2204,
+        2306,
+        2272,
+        639,
+        225,
+        29,
+        3,
+        0
+      ],
+      "fillcolor": "rgba(184, 102, 158, 0.37)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "5a66e7",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(230, 59, 168)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "3, x; 3.25, x",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:72ac00",
+      "y": [
+        0,
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.3
+      ],
+      "fillcolor": "rgba(208, 45, 178, 0.39)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "a54b69",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(165, 72, 217)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "3, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:0973d6",
+      "y": [
+        0,
+        4,
+        351,
+        2896,
+        5369,
+        1248,
+        126,
+        6,
+        0
+      ],
+      "fillcolor": "rgba(165, 72, 217, 0.42)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "65ead4",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(120, 74, 205)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "3.25, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:26ce74",
+      "y": [
+        0,
+        144,
+        2577,
+        4810,
+        2124,
+        327,
+        17,
+        1,
+        0
+      ],
+      "fillcolor": "rgba(120, 74, 205, 0.36)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "1e195c",
+      "fill": "tonexty",
+      "line": {
+        "color": "#74add1",
+        "shape": "spline",
+        "width": 6
+      },
+      "mode": "lines",
+      "name": "3.5, x",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:ec39dc",
+      "y": [
+        0,
+        0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.25
+      ],
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "a33dec",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(32, 52, 164)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "3.5, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:591721",
+      "y": [
+        0,
+        1286,
+        5527,
+        2723,
+        436,
+        22,
+        6,
+        0
+      ],
+      "fillcolor": "rgba(32, 52, 164, 0.41)",
+      "hoverinfo": "none",
+      "showlegend": false
+    },
+    {
+      "uid": "d90d7e",
+      "fill": "none",
+      "line": {
+        "color": "#313695",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "3.75, x",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:0552e1",
+      "y": [
+        0,
+        0,
+        0
+      ],
+      "visible": true,
+      "fillcolor": "rgba(109, 49, 149, 0.36)",
+      "hoverinfo": "none",
+      "showlegend": false,
+      "connectgaps": false
+    },
+    {
+      "uid": "16c649",
+      "fill": "tonexty",
+      "line": {
+        "color": "rgb(38, 127, 211)",
+        "shape": "spline",
+        "width": 4
+      },
+      "mode": "lines",
+      "name": "3.75, y",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:990:ba38a4",
+      "x": [
+        0.25,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        0.95
+      ],
+      "ysrc": "aline_interviewingio:990:eba1b9",
+      "y": [
+        0,
+        10000,
+        0
+      ],
+      "fillcolor": "rgba(38, 127, 211, 0.28)",
+      "hoverinfo": "none",
+      "showlegend": false
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 14
+    },
+    "title": "Results of Interview Simulations by Mean Score",
+    "width": 2452,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.25,
+        0.95
+      ],
+      "title": "P(Fail)",
+      "showline": true,
+      "zeroline": true,
+      "autorange": true,
+      "titlefont": {
+        "size": 16
+      }
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        10555.555555555555
+      ],
+      "title": "# of Simulations",
+      "mirror": false,
+      "showline": true,
+      "zeroline": false,
+      "autorange": false,
+      "titlefont": {
+        "size": 16
+      }
+    },
+    "height": 1232,
+    "autosize": true,
+    "titlefont": {
+      "size": 18
+    },
+    "annotations": [
+      {
+        "x": 0.2744328097731239,
+        "y": 6712.610899873257,
+        "ax": 46,
+        "ay": -45,
+        "text": "3.75"
+      },
+      {
+        "x": 0.3049738219895288,
+        "y": 5598.859315589353,
+        "ax": 40,
+        "ay": -38,
+        "text": "3.5"
+      },
+      {
+        "x": 0.3495636998254799,
+        "y": 4966.7300380228135,
+        "ax": 31,
+        "ay": -39,
+        "text": "3.25"
+      },
+      {
+        "x": 0.40881326352530545,
+        "y": 5358.048162230672,
+        "ax": 32,
+        "ay": -39,
+        "text": "3"
+      },
+      {
+        "x": 0.47142233856893545,
+        "y": 2418.1453316434304,
+        "ax": 27,
+        "ay": -47,
+        "text": "2.75"
+      },
+      {
+        "x": 0.5511343804537522,
+        "y": 3572.032108153781,
+        "ax": 26,
+        "ay": -47,
+        "text": "2.5"
+      },
+      {
+        "x": 0.6149650959860383,
+        "y": 2959.9704267004645,
+        "ax": 31,
+        "ay": -47,
+        "text": "2.25"
+      },
+      {
+        "x": 0.6,
+        "y": 9070.553443177016,
+        "text": "(Each mean score is denoted with an arrow below.)",
+        "arrowsize": 1,
+        "showarrow": false
+      }
+    ],
+    "plot_bgcolor": "rgba(0, 0, 0, 0)"
+  }
+}

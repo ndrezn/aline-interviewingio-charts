@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "uid": "43bbb8",
+      "line": {
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "A",
+          "y": "B"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "BS in CS",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:906:dffe5e",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "aline_interviewingio:906:6ef3f2",
+      "y": [
+        "",
+        "38",
+        "35",
+        "30",
+        "30.1",
+        "31.1"
+      ],
+      "marker": {
+        "size": 10
+      }
+    },
+    {
+      "uid": "cb885c",
+      "line": {
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "A",
+          "y": "C"
+        }
+      },
+      "mode": "lines+markers",
+      "name": "At least partially self-taught",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:906:dffe5e",
+      "x": [
+        "",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "aline_interviewingio:906:131c49",
+      "y": [
+        null,
+        "42",
+        "69",
+        "91.1",
+        "87",
+        "86.8"
+      ],
+      "marker": {
+        "size": 10,
+        "color": "rgb(44, 160, 44)"
+      }
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "font": {
+        "size": 20
+      },
+      "text": "Education sources for software engineers"
+    },
+    "width": 1159.77,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "range": [
+        2014.740995762712,
+        2019.259004237288
+      ],
+      "title": {
+        "font": {
+          "size": 16
+        },
+        "text": "Year"
+      },
+      "mirror": false,
+      "showgrid": false,
+      "showline": false,
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        100
+      ],
+      "title": {
+        "font": {
+          "size": 16
+        },
+        "text": "% of Software Engineers"
+      },
+      "mirror": false,
+      "showgrid": true,
+      "showline": true,
+      "autorange": false
+    },
+    "height": 651.389,
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 0.008508572068875397,
+        "y": 1.0148619957537155,
+        "text": "Sources: Stack Overflow Developer Surveys for <a href=\"http://stackoverflow.com/research/developer-survey-2015#profile-education\">2015</a>, <a href=\"http://stackoverflow.com/research/developer-survey-2016#developer-profile-education\">2016</a>, <a href=\"https://insights.stackoverflow.com/survey/2017#education>2017</a>, <a href=\"https://insights.stackoverflow.com/survey/2018#education\">2018</a>, and <a href=\"https://insights.stackoverflow.com/survey/2019#education\">2019</a>",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "left",
+        "showarrow": false
+      }
+    ]
+  }
+}

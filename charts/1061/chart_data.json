@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "uid": "169e81",
+      "mode": "markers",
+      "name": "B",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1060:74ec14",
+      "x": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "13.5",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "29",
+        "30",
+        "40",
+        "45"
+      ],
+      "ysrc": "aline_interviewingio:1060:93abaf",
+      "y": [
+        "6.064618644",
+        "5.985169492",
+        "10.59322034",
+        "14.69809322",
+        "9.216101695",
+        "7.309322034",
+        "7.441737288",
+        "4.528601695",
+        "14.03601695",
+        "2.754237288",
+        "4.210805085",
+        "2.727754237",
+        "0.02648305085",
+        "2.171610169",
+        "4.819915254",
+        "0.4237288136",
+        "0.5296610169",
+        "0.5031779661",
+        "0.2913135593",
+        "1.006355932",
+        "0.07944915254",
+        "0.07944915254",
+        "0.1059322034",
+        "0.02648305085",
+        "0.1853813559",
+        "0.02648305085",
+        "0.1059322034",
+        "0.02648305085",
+        "0.02648305085"
+      ],
+      "marker": {
+        "line": {
+          "width": 0
+        }
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Distribution of Candidate Seniority on interviewing.io",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        1,
+        45.25
+      ],
+      "title": "Years of Experience",
+      "domain": [
+        0,
+        1
+      ],
+      "showline": true,
+      "zeroline": true,
+      "autorange": false,
+      "fixedrange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        15.47167707368421
+      ],
+      "title": "Frequency (%)",
+      "showline": true,
+      "autorange": true
+    },
+    "bargap": 0.010000000000000009,
+    "margin": {
+      "l": 80,
+      "pad": 0
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "annotations": [
+      {
+        "x": 24.31975,
+        "y": 10.088047803388948,
+        "font": {
+          "size": 14
+        },
+        "text": "Mean = 7.8<br>Median = 7<br>Mode = 5<br>",
+        "xref": "x",
+        "yref": "y",
+        "align": "center",
+        "showarrow": false
+      }
+    ],
+    "bargroupgap": 0,
+    "breakpoints": []
+  }
+}

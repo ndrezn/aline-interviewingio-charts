@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "uid": "cafd5f",
+      "mode": "markers",
+      "name": "success_rate",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1000:75c72d",
+      "x": [
+        "C",
+        "C++",
+        "C#",
+        "Go",
+        "Java",
+        "Javascript",
+        "Python",
+        "Ruby"
+      ],
+      "ysrc": "aline_interviewingio:1000:0d0ab7",
+      "y": [
+        "43.75",
+        "68.55",
+        "49.46",
+        "55.56",
+        "57.97",
+        "48.26",
+        "61.43",
+        "54.95"
+      ],
+      "error_y": {
+        "arraysrc": "aline_interviewingio:1000:e5dfd6",
+        "array": [
+          "24.31",
+          "5.78",
+          "10.16",
+          "18.74",
+          "3.68",
+          "5.28",
+          "3.61",
+          "10.22"
+        ]
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "How interview success rate<br>varies with interview language",
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        7.5
+      ],
+      "title": "Language",
+      "tickmode": "auto",
+      "autorange": true,
+      "ticksuffix": ""
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        78.2421052631579
+      ],
+      "title": "Success Rate",
+      "autorange": true,
+      "ticksuffix": "%"
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": false,
+    "breakpoints": []
+  }
+}

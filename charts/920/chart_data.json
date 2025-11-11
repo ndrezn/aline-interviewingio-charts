@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "uid": "ea22e8",
+      "line": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "mode": "lines+markers",
+      "name": "Number of Company Interviews",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:919:f22f25",
+      "x": [
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016",
+        "Nov 2016",
+        "Dec 2016",
+        "Jan 2017"
+      ],
+      "ysrc": "aline_interviewingio:919:c9c260",
+      "y": [
+        "5",
+        "7",
+        "24",
+        "22",
+        "20",
+        "13",
+        "15",
+        "29",
+        "47",
+        "48",
+        "27",
+        "41",
+        "53"
+      ],
+      "marker": {
+        "size": 12
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "845b22",
+      "line": {
+        "dash": "dash",
+        "color": "rgb(44, 160, 44)"
+      },
+      "mode": "lines+markers",
+      "name": "Number of Company Interviews",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:919:f22f25",
+      "x": [
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016",
+        "Nov 2016",
+        "Dec 2016",
+        "Jan 2017"
+      ],
+      "ysrc": "aline_interviewingio:919:c9c260",
+      "y": [
+        "5",
+        "7",
+        "24",
+        "22",
+        "20",
+        "13",
+        "15",
+        "29",
+        "47",
+        "48",
+        "27",
+        "41",
+        "53"
+      ],
+      "marker": {
+        "size": 12
+      },
+      "opacity": 0.30000000000000004,
+      "autobinx": true,
+      "autobiny": true,
+      "transforms": [
+        {
+          "rms": 8.7257858226192,
+          "type": "fit",
+          "xmid": 5,
+          "ymid": 9,
+          "inputUid": "ea22e8",
+          "regressor": "x",
+          "weightsrc": "FIT_WEIGHT_UNIFORM",
+          "parameters": [
+            {
+              "hold": true,
+              "name": "a",
+              "error": 0.09630294517248758,
+              "value": 0.62
+            },
+            {
+              "hold": true,
+              "name": "b",
+              "error": 1.1274555799037098,
+              "value": 0.001
+            },
+            {
+              "hold": true,
+              "name": "c",
+              "error": 4.199819330518717,
+              "value": 5
+            }
+          ],
+          "regressand": "y",
+          "correlation": 0.7714179779775974,
+          "fitfunction": "a*x^2 + b*x + c",
+          "inputxrange": [],
+          "outputxrange": [
+            "0",
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "",
+    "xaxis": {
+      "type": "category",
+      "dtick": 2,
+      "range": [
+        -0.7148014440433212,
+        12.71480144404332
+      ],
+      "tick0": 1,
+      "title": "",
+      "nticks": 0,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "tickmode": "linear",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        1.9902213072568196,
+        56.00977869274318
+      ],
+      "title": "",
+      "showline": true,
+      "tickfont": {
+        "size": 14
+      },
+      "autorange": true
+    },
+    "margin": {
+      "b": 40,
+      "l": 40,
+      "r": 40,
+      "t": 0
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": false,
+    "breakpoints": []
+  }
+}

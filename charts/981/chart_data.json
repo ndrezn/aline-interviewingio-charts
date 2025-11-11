@@ -1,0 +1,323 @@
+{
+  "data": [
+    {
+      "key": null,
+      "uid": "e69f21",
+      "name": "Interviewer would not hire",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1001:8a0d35",
+      "x": [
+        "",
+        0.0775,
+        0.1775,
+        "0.2775",
+        0.3775,
+        0.4775,
+        0.5775,
+        0.6775,
+        0.7775,
+        0.8775,
+        0.9775
+      ],
+      "ysrc": "aline_interviewingio:1001:8e4d43",
+      "y": [
+        0.0987654320987654,
+        0.0339506172839506,
+        0.0540123456790123,
+        0.0709876543209877,
+        0.0740740740740741,
+        0.121913580246914,
+        0.111111111111111,
+        0.114197530864198,
+        0.141975308641975,
+        0.066358024691358,
+        0.112654320987654
+      ],
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "transparent",
+          "width": 1.88976377952756
+        },
+        "color": "rgb(214, 39, 40)",
+        "autocolorscale": false
+      },
+      "textsrc": "aline_interviewingio:1001:343a9c",
+      "text": [
+        "bucketed_success_rate: -0.02<br>pct: 0.1<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.08<br>pct: 0.03<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.18<br>pct: 0.05<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.28<br>pct: 0.07<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.38<br>pct: 0.07<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.48<br>pct: 0.12<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.58<br>pct: 0.11<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.68<br>pct: 0.11<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.78<br>pct: 0.14<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.88<br>pct: 0.07<br>`Interviewer Would Hire`: False",
+        "bucketed_success_rate: 0.98<br>pct: 0.11<br>`Interviewer Would Hire`: False"
+      ],
+      "autobinx": true,
+      "autobiny": true,
+      "hoverinfo": "text",
+      "showlegend": true,
+      "legendgroup": "False"
+    },
+    {
+      "key": null,
+      "uid": "484ff5",
+      "name": "Interviewer would hire",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1001:afc254",
+      "x": [
+        0.0225,
+        0.1225,
+        0.2225,
+        0.3225,
+        0.4225,
+        0.5225,
+        0.6225,
+        0.7225,
+        0.8225,
+        0.9225,
+        1.0225
+      ],
+      "ysrc": "aline_interviewingio:1001:542944",
+      "y": [
+        0.0614203454894434,
+        0.0287907869481766,
+        0.0460652591170825,
+        0.0566218809980806,
+        0.072936660268714,
+        0.13147792706334,
+        0.113243761996161,
+        0.129558541266795,
+        0.150671785028791,
+        0.0710172744721689,
+        0.138195777351248
+      ],
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "transparent",
+          "width": 1.88976377952756
+        },
+        "color": "rgb(44, 160, 44)",
+        "autocolorscale": false
+      },
+      "textsrc": "aline_interviewingio:1001:376443",
+      "text": [
+        "bucketed_success_rate: 0.02<br>pct: 0.06<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.12<br>pct: 0.03<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.22<br>pct: 0.05<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.32<br>pct: 0.06<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.42<br>pct: 0.07<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.52<br>pct: 0.13<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.62<br>pct: 0.11<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.72<br>pct: 0.13<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.82<br>pct: 0.15<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 0.92<br>pct: 0.07<br>`Interviewer Would Hire`: True",
+        "bucketed_success_rate: 1.02<br>pct: 0.14<br>`Interviewer Would Hire`: True"
+      ],
+      "visible": true,
+      "hoverinfo": "text",
+      "showlegend": true,
+      "legendgroup": "True"
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "font": {
+      "size": 14.6118721461187,
+      "color": "rgba(0, 0, 0, 1)",
+      "family": ""
+    },
+    "title": "Do successful interviews have<br>fewer code execution errors?",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        3.469446951953614e-17,
+        1.045
+      ],
+      "ticks": "outside",
+      "title": "Percentage of code executions that run without error<br>",
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 9.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "0%-10%",
+        "10%-20%",
+        "20%-30%",
+        "30%-40%",
+        "40%-50%",
+        "50%-60%",
+        "60%-70%",
+        "70%-80%",
+        "80%-90%",
+        "90%-100%",
+        "100%"
+      ],
+      "tickvals": [
+        0,
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6,
+        0.7,
+        0.8,
+        0.9,
+        1
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linecolor": null,
+      "linewidth": 0,
+      "tickangle": -45,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 14,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        0.15860187897767475
+      ],
+      "ticks": "outside",
+      "title": "Percentage of interviews",
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "ticklen": 3.65296803652968,
+      "showgrid": true,
+      "showline": false,
+      "tickfont": {
+        "size": 9.689497716895,
+        "color": "rgba(77,77,77,1)",
+        "family": ""
+      },
+      "tickmode": "array",
+      "ticktext": [
+        "0%",
+        "5%",
+        "10%",
+        "15%"
+      ],
+      "tickvals": [
+        0,
+        0.05,
+        0.1,
+        0.15
+      ],
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "rgba(255,255,255,1)",
+      "gridwidth": 0.66417600664176,
+      "linecolor": null,
+      "linewidth": 0,
+      "tickangle": 0,
+      "tickcolor": "rgba(51,51,51,1)",
+      "tickwidth": 0.66417600664176,
+      "titlefont": {
+        "size": 14,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "hoverformat": ".2f",
+      "showticklabels": true
+    },
+    "bargap": 0,
+    "legend": {
+      "x": 1.02,
+      "y": 0.927927109111361,
+      "font": {
+        "size": 11.689497716895,
+        "color": "rgba(0, 0, 0, 1)",
+        "family": ""
+      },
+      "bgcolor": "rgba(255,255,255,1)",
+      "traceorder": "reversed",
+      "bordercolor": "transparent",
+      "borderwidth": 1.88976377952756
+    },
+    "margin": {
+      "b": 85.40480639830551,
+      "l": 63.1050228310502,
+      "r": 7.30593607305936,
+      "t": 55.3552511415525
+    },
+    "shapes": [
+      {
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "type": "rect",
+        "xref": "paper",
+        "yref": "paper",
+        "fillcolor": null
+      }
+    ],
+    "barmode": "stack",
+    "hovermode": "closest",
+    "titlefont": {
+      "size": 17.5342465753425,
+      "color": "rgba(0, 0, 0, 1)",
+      "family": ""
+    },
+    "showlegend": true,
+    "annotations": [
+      {
+        "x": 1.02,
+        "y": 1,
+        "ax": 0,
+        "ay": 0,
+        "font": {
+          "size": 14.6118721461187,
+          "color": "rgba(0, 0, 0, 1)",
+          "family": ""
+        },
+        "text": "",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "left",
+        "yanchor": "bottom",
+        "showarrow": false,
+        "textangle": 0,
+        "legendTitle": true
+      }
+    ],
+    "breakpoints": [],
+    "plot_bgcolor": "rgb(255, 255, 255)",
+    "paper_bgcolor": "rgba(255,255,255,1)"
+  }
+}

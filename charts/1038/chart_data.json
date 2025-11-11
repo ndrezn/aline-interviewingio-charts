@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "uid": "f79a3f",
+      "mode": "markers",
+      "name": "% Interns",
+      "type": "choropleth",
+      "zmax": 30.4,
+      "zmin": 0.7,
+      "zsrc": "aline_interviewingio:1037:596a53",
+      "z": [
+        "30.4",
+        "0.7",
+        "1.4",
+        "3.6",
+        "0.7",
+        "2.9",
+        "0.7",
+        "12.3",
+        "7.2",
+        "0.7",
+        "2.2",
+        "0.7",
+        "0.7",
+        "12.3",
+        "1.4",
+        "8.0",
+        "2.2",
+        "6.5",
+        "0.7",
+        "3.6",
+        "0.7"
+      ],
+      "zauto": true,
+      "autobinx": true,
+      "autobiny": true,
+      "colorscale": [
+        [
+          0,
+          "rgb(220,220,220)"
+        ],
+        [
+          0.2,
+          "rgb(245,195,157)"
+        ],
+        [
+          0.4,
+          "rgb(245,160,105)"
+        ],
+        [
+          1,
+          "rgb(178,10,28)"
+        ]
+      ],
+      "locationmode": "USA-states",
+      "locationssrc": "aline_interviewingio:1037:956a3f",
+      "locations": [
+        "CA",
+        "CO",
+        "FL",
+        "GA",
+        "ID",
+        "IL",
+        "IN",
+        "MA",
+        "MD",
+        "MN",
+        "NC",
+        "NE",
+        "NJ",
+        "NY",
+        "OH",
+        "PA",
+        "RI",
+        "TX",
+        "VA",
+        "WA",
+        "WI"
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "geo": {
+      "scope": "usa"
+    },
+    "title": "interviewing.io Intern Candidate Distribution",
+    "autosize": true,
+    "hovermode": "closest",
+    "breakpoints": []
+  }
+}

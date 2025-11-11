@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "uid": "576b18",
+      "mode": "lines",
+      "name": "Registrations",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:921:ad6846",
+      "x": [
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016"
+      ],
+      "ysrc": "aline_interviewingio:921:86f688",
+      "y": [
+        "11",
+        "52",
+        "47",
+        "42",
+        "112",
+        "87",
+        "115",
+        "80"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "e14061",
+      "mode": "lines",
+      "name": "Created Users",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:921:ad6846",
+      "x": [
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016"
+      ],
+      "ysrc": "aline_interviewingio:921:2b7c53",
+      "y": [
+        "22",
+        "90",
+        "77",
+        "81",
+        "291",
+        "157",
+        "165",
+        "102"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "category",
+      "range": [
+        0,
+        7
+      ],
+      "title": "Month",
+      "showgrid": true,
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -4.555555555555552,
+        306.55555555555554
+      ],
+      "title": "Registrations",
+      "domain": [
+        0,
+        1
+      ],
+      "showgrid": true,
+      "showline": true,
+      "autorange": true
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true
+  }
+}

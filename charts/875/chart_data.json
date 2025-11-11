@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "uid": "3b91a0",
+      "name": "Women",
+      "text": "",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:997:c979dc",
+      "x": [
+        "1",
+        "2"
+      ],
+      "ysrc": "aline_interviewingio:997:2f86c9",
+      "y": [
+        "33.3",
+        "14.8"
+      ],
+      "index": 0,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "color": "rgba(208, 2, 27, 0.9)"
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "y+name",
+      "showlegend": true,
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "uid": "6d88c1",
+      "name": "Men",
+      "text": "",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:997:c979dc",
+      "x": [
+        "1",
+        "2"
+      ],
+      "ysrc": "aline_interviewingio:997:21afa4",
+      "y": [
+        "4.7",
+        "4.2"
+      ],
+      "index": 1,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "color": "rgba(14, 95, 192, 1)"
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "y+name",
+      "showlegend": true,
+      "legendgroup": "",
+      "orientation": "v"
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": "Attrition After Poor Interview Performance",
+    "width": 1188,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "color": "#444",
+      "dtick": 1,
+      "range": [
+        0.5,
+        2.5
+      ],
+      "tick0": 1,
+      "ticks": "",
+      "title": "Quit After This Many Bad Interviews",
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 3,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": false,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "color": "#444",
+      "dtick": 20,
+      "range": [
+        0,
+        35.05263157894736
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "% of Users by Gender",
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 3,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "rgb(238, 238, 238)",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.2,
+    "height": 635,
+    "legend": {
+      "x": 1.02,
+      "y": 1,
+      "font": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "width": 89,
+      "height": 48,
+      "bgcolor": "#fff",
+      "xanchor": "left",
+      "yanchor": "auto",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0,
+      "orientation": "v"
+    },
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "shapes": [],
+    "barmode": "group",
+    "barnorm": "",
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "closest",
+    "titlefont": {
+      "size": 17,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "separators": ".,",
+    "showlegend": true,
+    "annotations": [],
+    "bargroupgap": 0,
+    "hidesources": false,
+    "plot_bgcolor": "#fff",
+    "paper_bgcolor": "#fff"
+  }
+}

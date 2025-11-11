@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "uid": "00f59f",
+      "name": "Women",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:867:e6d652",
+      "x": [
+        "1",
+        "2"
+      ],
+      "ysrc": "aline_interviewingio:867:809119",
+      "y": [
+        "30",
+        "13"
+      ],
+      "index": 0,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "rgb(67, 67, 67)",
+          "width": 0.5
+        },
+        "color": "rgb(214, 39, 40)"
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "type": "percent",
+        "value": 60,
+        "visible": false,
+        "symmetric": false,
+        "valueminus": 44
+      },
+      "opacity": 1,
+      "textsrc": "aline_interviewingio:867:e6d652",
+      "text": [
+        "1",
+        "2"
+      ],
+      "visible": true,
+      "hoverinfo": "y+name",
+      "showlegend": true,
+      "legendgroup": "",
+      "orientation": "v"
+    },
+    {
+      "uid": "d28fd0",
+      "name": "Men",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:867:e6d652",
+      "x": [
+        "1",
+        "2"
+      ],
+      "ysrc": "aline_interviewingio:867:8c9d33",
+      "y": [
+        "3.2",
+        "2.8"
+      ],
+      "index": 1,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "rgb(67, 67, 67)",
+          "width": 0.5
+        },
+        "color": "rgb(31, 119, 180)"
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "type": "percent",
+        "value": 104,
+        "visible": false,
+        "symmetric": false,
+        "valueminus": 52
+      },
+      "opacity": 1,
+      "textsrc": "aline_interviewingio:867:e6d652",
+      "text": [
+        "1",
+        "2"
+      ],
+      "visible": true,
+      "hoverinfo": "y+name",
+      "showlegend": true,
+      "legendgroup": "",
+      "orientation": "v"
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": "Attrition After Poor Interview Performance by Gender",
+    "width": 1188,
+    "xaxis": {
+      "side": "bottom",
+      "type": "linear",
+      "color": "#444",
+      "range": [
+        0.5,
+        2.5
+      ],
+      "ticks": "outside",
+      "title": "Quit After This Many Bad Interviews",
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 4,
+      "ticklen": 5,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "tickcolor": "#444",
+      "tickwidth": 1,
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "color": "#444",
+      "range": [
+        0,
+        50.592
+      ],
+      "ticks": "outside",
+      "title": "% of Users by Gender",
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 4,
+      "ticklen": 5,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": false,
+      "gridcolor": "rgb(238, 238, 238)",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "tickcolor": "#444",
+      "tickwidth": 1,
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "bargap": 0.15,
+    "height": 635,
+    "legend": {
+      "x": 1.02,
+      "y": 1,
+      "font": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "width": 89,
+      "height": 48,
+      "bgcolor": "rgb(255, 255, 255)",
+      "xanchor": "left",
+      "yanchor": "auto",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0,
+      "orientation": "v"
+    },
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "shapes": [],
+    "barmode": "group",
+    "barnorm": "",
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "closest",
+    "titlefont": {
+      "size": 17,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "separators": ".,",
+    "showlegend": true,
+    "annotations": [],
+    "bargroupgap": 0,
+    "hidesources": false,
+    "plot_bgcolor": "rgb(255, 255, 255)",
+    "paper_bgcolor": "rgba(0, 0, 0, 0)"
+  }
+}

@@ -1,0 +1,3700 @@
+{
+  "data": [
+    {
+      "uid": "cdf469",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate1",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:NLTWG39S2NC5ZQUY5UPEV6Q2PLGYDHS8",
+      "y": [
+        4,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "b93e06",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate2",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:PJ87H1ZEM5OYPD644VU0ATOMVJBQUQXY",
+      "y": [
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "b986c9",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate3",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:D2URIOSU501UU2IBSQ4QH0U70J564HHE",
+      "y": [
+        4,
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "a0ff50",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate4",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:5HH9VCOUVWHD18AHVOOD1O90B45YNPC8",
+      "y": [
+        3,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "db38e9",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate5",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:XFRZJ4T7T13QFM1FVZOAM6S28P7JF0S3",
+      "y": [
+        4,
+        3,
+        3,
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "1238b5",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate6",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:TE4NL3QC4H691ZONL1WGSZJI62RE3OKQ",
+      "y": [
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "4bc3a3",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate7",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:3FF190458Z7QSC9O12GG3WN1RJYB309X",
+      "y": [
+        3,
+        4,
+        4,
+        3,
+        4,
+        2,
+        3,
+        3,
+        4,
+        3,
+        2,
+        3,
+        2,
+        3,
+        4,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "fd4348",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#7f7f7f",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate8",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:OLJDIVA4BPV88QUVZL0J1J31PZRAI0LL",
+      "y": [
+        4,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#7f7f7f",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "3188cc",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#bcbd22",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate9",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:C280UQ4LXV5G660IY060ZI0IG6TWIQEB",
+      "y": [
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#bcbd22",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "26eace",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#17becf",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate10",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:VQUBHNJIWX243GP3M0ZKZ4YM6E9GAPUN",
+      "y": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#17becf",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "70ed7e",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate11",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:OUQSZKFVTXKGK4ZQLPFUO10YCBEZXST4",
+      "y": [
+        3,
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "fdc159",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate12",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:ZFWA5J8APVBOM7T1N8NUAGEGVDD4HU8V",
+      "y": [
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "531f24",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate13",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:B5K6CL07Q804DGV8LIWLMA39EQF6X1VP",
+      "y": [
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "61a0fe",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate14",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:K5CTV69AMPX9U5VW6JMDA08MSX65MZZF",
+      "y": [
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "e92806",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate15",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:N4C8ZP7SUYTRY19Q01RB47CZI9MSU5CZ",
+      "y": [
+        4,
+        4,
+        4,
+        3,
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "6bf40e",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate16",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:VI8AFGIMBLGIPF7DYQ16RYE60DB4OBOI",
+      "y": [
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "c6b7cf",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate17",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:GPB7G8AZ9ANGU7DAIZORF74T9ACGSKND",
+      "y": [
+        4,
+        4,
+        3,
+        2,
+        4,
+        4,
+        3,
+        3,
+        4,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "c53e02",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#7f7f7f",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate18",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:D4NYRGNI905TL51XSKPEA3NKPZN1S32W",
+      "y": [
+        3,
+        4,
+        4,
+        2,
+        3,
+        4,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#7f7f7f",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "d68044",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#bcbd22",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate19",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:0NPY7FFQC0UDLQRH3UID779LEHN2DM9F",
+      "y": [
+        3,
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#bcbd22",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "599bd8",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#17becf",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate20",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:DY1OU6HEIVGOEK5RC4DS308AV04F6MNO",
+      "y": [
+        2,
+        3,
+        4,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#17becf",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "4daa8d",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate21",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:QX6O0PMZQI3RH8Y2TRP8ZQDVJICZ41H8",
+      "y": [
+        3,
+        2,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "a393b6",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate22",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:W1JMV10MROFE47E85O1Q8VRFC7RFXEOA",
+      "y": [
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "3c9f07",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate23",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:LZZZ5GNFIWSRD390H242P9IJUU0MZ7K1",
+      "y": [
+        3,
+        3,
+        3,
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "00db27",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate24",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:I7BM7OT8ILKXJY5OAVP25CLCTJ0IJ76Z",
+      "y": [
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "9fcd32",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate25",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:NYYIQV2J8EOGJW1HYRUEMS593Q7ZGPDK",
+      "y": [
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "f4d8bc",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate26",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:16HJPC44FU8NHP6O5Y1XGRVHDECSP8Y1",
+      "y": [
+        2,
+        3,
+        2,
+        3,
+        2,
+        1
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "05fa61",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate27",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:QPOKORE2PVNE9L0HEY2NDFBHU6AB7DDI",
+      "y": [
+        2,
+        3,
+        4,
+        3,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "e7e0ec",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#7f7f7f",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate28",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:T0X2FMAYSWS6HAVHSTN4ESR144E0S3AL",
+      "y": [
+        3,
+        4,
+        3,
+        4,
+        1,
+        3,
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#7f7f7f",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "198876",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#bcbd22",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate29",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:YEMJPKCC9EK41IR4HYJ67T0OOZOMUFGE",
+      "y": [
+        2,
+        3,
+        3,
+        1
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#bcbd22",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "5a9b26",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#17becf",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate30",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:LA0O781UJ1GIGEWMJL6X3F44INBOZYNS",
+      "y": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#17becf",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "d7f3be",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate31",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:5DXX52Z9CTNP923ZFQWZPG3N2OLAFNAC",
+      "y": [
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "1e4907",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate32",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:3M4CCOZ71QWBFLTV54G0CXZTNDBZMCN8",
+      "y": [
+        3,
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "27da50",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate33",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:7WQJS74HY466D6MUT193FCPX3YE26VTD",
+      "y": [
+        3,
+        4,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "9e20c4",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate34",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:U056NN5506NU3SDRR22HLD95DP1ON8ZT",
+      "y": [
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "3c532b",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate35",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:DGQNPDJ4BIEH7HUN9CYOQDVBXOLM1P6L",
+      "y": [
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "a68478",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate36",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:SUW84Q416IED3QF9PU5MQAMN9ZZDKIH4",
+      "y": [
+        3,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "834fa5",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate37",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:P3OSBPYS6LWJWLKDZ8YR7Y03AE8DOB72",
+      "y": [
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "b575e5",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#7f7f7f",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate38",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:E8T3UN3LO11RCLF1I8BVAUXC71OU1KKN",
+      "y": [
+        3,
+        3,
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#7f7f7f",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "f7aa8c",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#bcbd22",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate39",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:ZONQUP63KEQDY1AQIJFP0QK280T1OAU8",
+      "y": [
+        4,
+        2,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#bcbd22",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "45b280",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#17becf",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate40",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:2D6M8LV8SQ9WKOTGOD0J1OVJSX8NVYI8",
+      "y": [
+        4,
+        4,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#17becf",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "1177a5",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate41",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:QSAQXWNA51K431WGJRFFVHCDM58JI2ZX",
+      "y": [
+        3,
+        3,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "f5ce10",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate42",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:U575J460F2Y49NY6KISZRIX7P17KIVQ3",
+      "y": [
+        3,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "9511a7",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate43",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:Z5DJCM3UK1NS4TWYI5EOC6G9JCTL62WM",
+      "y": [
+        3,
+        3,
+        4,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "bbbc04",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate44",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:OHE0CLX2SFIUWGBK9HYDWXX8X2QQC9K1",
+      "y": [
+        4,
+        2,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "7db068",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate45",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:QINYFQEVPV4NBYHDP742OAGK2G1BK8LS",
+      "y": [
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "267616",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate46",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:FBF3J9YY1KZ3WL4XKCKVKBO60XPVK67F",
+      "y": [
+        4,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "c85753",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate47",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:TV06TFCGGLMTMJMRWQG2JE50YSR038LS",
+      "y": [
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "d03140",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#7f7f7f",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate48",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:E748FJO4JCKSVTEQON1F0AOJ1VDB2OBR",
+      "y": [
+        3,
+        3,
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#7f7f7f",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "57f4f5",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#bcbd22",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate49",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:GX2C1FE4V3HBSQRP105M04TKVDUV9WR1",
+      "y": [
+        2,
+        3,
+        3,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#bcbd22",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "0d98e9",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#17becf",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate50",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:TI40947LMLAP4LRZ6C4ANSND8OEV2OO3",
+      "y": [
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#17becf",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "885e15",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate51",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:8EC4TEOVBKIC4E5409EHA7E3YWFLBB5N",
+      "y": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        3,
+        1,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "278960",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate52",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:9JWKQ0BMS5TB9LZ7XW051H8CDFR0ET8O",
+      "y": [
+        3,
+        3,
+        2,
+        4,
+        4,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "51f1e6",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate53",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:DJFKBVQDAVWEB23U9OA0FNPXKID0I9FO",
+      "y": [
+        3,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "843b42",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate54",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:VI992NV8BRM5TDCT2PJ2AUO97Z6VN562",
+      "y": [
+        4,
+        4,
+        4,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "8f8052",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate55",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:7Y7SI9DIR8TZVSXOKJOV9YKZB0PI21XJ",
+      "y": [
+        2,
+        2,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "7845e7",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate56",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:HSEH9AJBTCX4F8UVWE1NL9VX7ZWX3H2U",
+      "y": [
+        3,
+        2,
+        4,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "5d1f7c",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate57",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:O5A39ZNNREGOB945P0CBTXQB0IBY008L",
+      "y": [
+        3,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "31b877",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#7f7f7f",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate58",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:V7K5TL0X6NSAIJ4JR7VYX1YNNPQXTC9O",
+      "y": [
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#7f7f7f",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "19e307",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#bcbd22",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate59",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:M7SZHT5VGQ9FKILJFHLFQI2WTY3JAFN8",
+      "y": [
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#bcbd22",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "614f3b",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#17becf",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate60",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:SXEDZW17UNNQL5K5VHNXNWBN5URS84OI",
+      "y": [
+        4,
+        4
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#17becf",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "5cab3c",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate61",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:OH7S2J3WA2OHMS2I1TMKG03W2RMQE9SN",
+      "y": [
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "68eef2",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#ff7f0e",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate62",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:2UU3BGJQGUDLLGE9JQUP7TQ8N5J0KZWW",
+      "y": [
+        2,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#ff7f0e",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "a4ad15",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#2ca02c",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate63",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:LNS1GSOCN54Z4CYWR9ICWIYPU3QJB0YI",
+      "y": [
+        2,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#2ca02c",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "84b1e7",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#d62728",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate64",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:9KIK32XIUH8C0N9TT8ISQR7YCYE0CGM7",
+      "y": [
+        2,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#d62728",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "0008bd",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#9467bd",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate65",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:GLG2C4IY6TI6PMBWW92UUONNDGLRMDC2",
+      "y": [
+        3,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#9467bd",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "04c55e",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#8c564b",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate66",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:X1Q2ZM6REIWSRXTAQYIG6Q3OIM0B7811",
+      "y": [
+        4,
+        2,
+        4,
+        3,
+        4,
+        3,
+        3,
+        3,
+        4,
+        4,
+        3
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#8c564b",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    },
+    {
+      "uid": "8da101",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#e377c2",
+        "shape": "spline",
+        "width": 1,
+        "smoothing": 0.5
+      },
+      "name": "Candidate67",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:855:dd013b",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "ysrc": "aline_interviewingio:855:LB5B1FAHK1126ZOIE47E2O45VGDAY2XU",
+      "y": [
+        2,
+        3,
+        2
+      ],
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 1
+        },
+        "size": 10,
+        "color": "#e377c2",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "opacity": 1,
+      "showlegend": false
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "title": "Interviewee Performance Over Time (299 Interviews w/ 67 Interviewees)",
+    "width": 1200,
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        -0.00920411478072558,
+        18.009204114780726
+      ],
+      "ticks": "",
+      "title": "Interview #",
+      "mirror": false,
+      "nticks": 0,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 16,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "dtick": 1,
+      "range": [
+        0.7201105641738261,
+        4.745486719876102
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "Technical Score",
+      "mirror": false,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "linear",
+      "zeroline": false,
+      "autorange": true,
+      "gridcolor": "#eee",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 16,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "showexponent": "all",
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "height": 500,
+    "legend": {
+      "x": 1.02,
+      "y": 1,
+      "font": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "bgcolor": "rgba(0, 0, 0, 0)",
+      "traceorder": "normal",
+      "bordercolor": "#444",
+      "borderwidth": 0
+    },
+    "autosize": false,
+    "dragmode": "zoom",
+    "hovermode": "x",
+    "titlefont": {
+      "size": 18,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "separators": ".,",
+    "annotations": [
+      {
+        "x": 9.294531672983217,
+        "y": 4.6134040647671215,
+        "text": "(Each line is an individual candidate, and each point is a single interview.)",
+        "showarrow": false
+      }
+    ],
+    "hidesources": false,
+    "plot_bgcolor": "rgba(0, 0, 0, 0)",
+    "paper_bgcolor": "rgba(0, 0, 0, 0)"
+  }
+}

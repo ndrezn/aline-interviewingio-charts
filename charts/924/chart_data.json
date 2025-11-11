@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "uid": "489b91",
+      "mode": "lines",
+      "name": "Number of Offers",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:923:9dbb7a",
+      "x": [
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016"
+      ],
+      "ysrc": "aline_interviewingio:923:5793b6",
+      "y": [
+        "0",
+        "1",
+        "3",
+        "4",
+        "2",
+        "0",
+        "0",
+        "3",
+        "4",
+        "5"
+      ],
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "1598ec",
+      "name": "Number of Hires",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:923:9dbb7a",
+      "x": [
+        "Jan 2016",
+        "Feb 2016",
+        "Mar 2016",
+        "Apr 2016",
+        "May 2016",
+        "Jun 2016",
+        "Jul 2016",
+        "Aug 2016",
+        "Sep 2016",
+        "Oct 2016"
+      ],
+      "ysrc": "aline_interviewingio:923:5f1625",
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        9.5
+      ],
+      "title": "Month",
+      "showline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        5.2631578947368425
+      ],
+      "title": "Number of Offers",
+      "showline": true,
+      "autorange": true
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true
+  }
+}

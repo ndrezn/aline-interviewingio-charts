@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "uid": "bdc53d",
+      "mode": "markers",
+      "name": "Female Interns",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1052:3414ad",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1052:517c1a",
+      "y": [
+        "9",
+        "48",
+        "26",
+        "17"
+      ],
+      "marker": {
+        "color": "rgb(227, 119, 194)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "a96593",
+      "name": "Male Interns",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1052:3414ad",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1052:84c841",
+      "y": [
+        "0",
+        "33",
+        "41",
+        "26"
+      ],
+      "marker": {
+        "color": "rgb(23, 190, 207)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "3e6745",
+      "name": "Female New Grads",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1052:3414ad",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1052:e3af9c",
+      "y": [
+        "5",
+        "26",
+        "50",
+        "19"
+      ],
+      "marker": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    },
+    {
+      "uid": "34b1e1",
+      "name": "Male New Grads",
+      "type": "bar",
+      "xsrc": "aline_interviewingio:1052:3414ad",
+      "x": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ysrc": "aline_interviewingio:1052:9df635",
+      "y": [
+        "0",
+        "36",
+        "44",
+        "20"
+      ],
+      "marker": {
+        "color": "rgb(31, 119, 180)"
+      },
+      "autobinx": true,
+      "autobiny": true
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "Interview Performance by Gender",
+    "xaxis": {
+      "type": "linear",
+      "range": [
+        0.5,
+        4.5
+      ],
+      "title": "Technical Score",
+      "nticks": 5,
+      "showgrid": false,
+      "showline": true,
+      "zeroline": true,
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        52.631578947368425
+      ],
+      "title": "Frequency (%)",
+      "showline": true,
+      "autorange": true
+    },
+    "barmode": "group",
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true,
+    "bargroupgap": 0.05,
+    "breakpoints": []
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "x": [
+        "C++",
+        "C++",
+        "Java",
+        "Java",
+        "Python",
+        "Python"
+      ],
+      "y": [
+        "72.73",
+        "60",
+        "50.91",
+        "75",
+        "67.5",
+        "50.98"
+      ],
+      "uid": "8fd44f",
+      "mode": "markers",
+      "name": "Company does not use language",
+      "type": "bar",
+      "marker": {
+        "color": "rgb(214, 39, 40)"
+      },
+      "error_y": {
+        "array": [
+          "18.61",
+          "30.36",
+          "13.21",
+          "14.15",
+          "14.52",
+          "13.72"
+        ]
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "transforms": [
+        {
+          "type": "filter",
+          "value": [
+            "0"
+          ],
+          "target": [
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+          ],
+          "enabled": true,
+          "filterId": "5c7096",
+          "operation": "{}"
+        }
+      ]
+    },
+    {
+      "x": [
+        "C++",
+        "C++",
+        "Java",
+        "Java",
+        "Python",
+        "Python"
+      ],
+      "y": [
+        "72.73",
+        "60",
+        "50.91",
+        "75",
+        "67.5",
+        "50.98"
+      ],
+      "uid": "7fcaee",
+      "mode": "markers",
+      "name": "Company uses language",
+      "type": "bar",
+      "marker": {
+        "color": "rgb(44, 160, 44)"
+      },
+      "error_y": {
+        "array": [
+          "18.61",
+          "30.36",
+          "13.21",
+          "14.15",
+          "14.52",
+          "13.72"
+        ]
+      },
+      "autobinx": true,
+      "autobiny": true,
+      "transforms": [
+        {
+          "type": "filter",
+          "value": [
+            "1"
+          ],
+          "target": [
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+          ],
+          "enabled": true,
+          "filterId": "f823ab",
+          "operation": "{}"
+        }
+      ]
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": "How success rate varies<br>with interview language",
+    "xaxis": {
+      "type": "category",
+      "range": [
+        -0.5,
+        2.5
+      ],
+      "title": "Language",
+      "autorange": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        0,
+        96.14736842105263
+      ],
+      "title": "Success Rate",
+      "autorange": true
+    },
+    "legend": {
+      "traceorder": "reversed"
+    },
+    "autosize": true,
+    "hovermode": "closest",
+    "showlegend": true,
+    "breakpoints": []
+  }
+}

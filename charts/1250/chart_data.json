@@ -1,0 +1,1236 @@
+{
+  "data": [
+    {
+      "fill": "none",
+      "line": {
+        "dash": "dot"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "month",
+          "y": "google"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Google",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1224:a50446",
+      "x": [
+        "2021-01-01",
+        "2021-02-01",
+        "2021-03-01",
+        "2021-04-01",
+        "2021-05-01",
+        "2021-06-01",
+        "2021-07-01",
+        "2021-08-01",
+        "2021-09-01",
+        "2021-10-01",
+        "2021-11-01",
+        "2021-12-01",
+        "2022-01-01",
+        "2022-02-01",
+        "2022-03-01",
+        "2022-04-01",
+        "2022-05-01",
+        "2022-06-01",
+        "2022-07-01",
+        "2022-08-01",
+        "2022-09-01",
+        "2022-10-01",
+        "2022-11-01",
+        "2022-12-01",
+        "2023-01-01",
+        "2023-02-01",
+        "2023-03-01",
+        "2023-04-01",
+        "2023-05-01",
+        "2023-06-01",
+        "2023-07-01",
+        "2023-08-01",
+        "2023-09-01",
+        "2023-10-01",
+        "2023-11-01",
+        "2023-12-01",
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "ysrc": "aline_interviewingio:1224:8be790",
+      "y": [
+        "119",
+        "148",
+        "183",
+        "218",
+        "214",
+        "231",
+        "243",
+        "235",
+        "207",
+        "227",
+        "243",
+        "206",
+        "275",
+        "291",
+        "400",
+        "427",
+        "390",
+        "314",
+        "281",
+        "173",
+        "100",
+        "90",
+        "86",
+        "50",
+        "78",
+        "41",
+        "42",
+        "45",
+        "41",
+        "82",
+        "40",
+        "34",
+        "27",
+        "27",
+        "29",
+        "17",
+        "35",
+        "24"
+      ],
+      "marker": {
+        "color": "rgb(122, 120, 119)",
+        "opacity": 1
+      },
+      "opacity": 0.6,
+      "legendgroup": ""
+    },
+    {
+      "line": {
+        "dash": "solid",
+        "width": 4
+      },
+      "meta": {
+        "columnNames": {
+          "x": "month",
+          "y": "facebook",
+          "marker": {
+            "size": ""
+          }
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Meta",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1224:a50446",
+      "x": [
+        "2021-01-01",
+        "2021-02-01",
+        "2021-03-01",
+        "2021-04-01",
+        "2021-05-01",
+        "2021-06-01",
+        "2021-07-01",
+        "2021-08-01",
+        "2021-09-01",
+        "2021-10-01",
+        "2021-11-01",
+        "2021-12-01",
+        "2022-01-01",
+        "2022-02-01",
+        "2022-03-01",
+        "2022-04-01",
+        "2022-05-01",
+        "2022-06-01",
+        "2022-07-01",
+        "2022-08-01",
+        "2022-09-01",
+        "2022-10-01",
+        "2022-11-01",
+        "2022-12-01",
+        "2023-01-01",
+        "2023-02-01",
+        "2023-03-01",
+        "2023-04-01",
+        "2023-05-01",
+        "2023-06-01",
+        "2023-07-01",
+        "2023-08-01",
+        "2023-09-01",
+        "2023-10-01",
+        "2023-11-01",
+        "2023-12-01",
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "ysrc": "aline_interviewingio:1224:054a65",
+      "y": [
+        "101",
+        "183",
+        "281",
+        "218",
+        "207",
+        "239",
+        "205",
+        "230",
+        "223",
+        "248",
+        "249",
+        "193",
+        "284",
+        "344",
+        "393",
+        "349",
+        "196",
+        "84",
+        "52",
+        "66",
+        "65",
+        "31",
+        "9",
+        "7",
+        "10",
+        "9",
+        "12",
+        "13",
+        "26",
+        "16",
+        "45",
+        "56",
+        "89",
+        "118",
+        "151",
+        "119",
+        "159",
+        "156"
+      ],
+      "marker": {
+        "meta": {
+          "columnNames": {
+            "size": "amazon"
+          }
+        },
+        "size": 9,
+        "color": "rgb(66, 133, 244)",
+        "symbol": "circle",
+        "sizeref": 0.05580246913580247,
+        "sizemode": "area"
+      },
+      "opacity": 1,
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "dot"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "month",
+          "y": "amazon"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Amazon",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1224:a50446",
+      "x": [
+        "2021-01-01",
+        "2021-02-01",
+        "2021-03-01",
+        "2021-04-01",
+        "2021-05-01",
+        "2021-06-01",
+        "2021-07-01",
+        "2021-08-01",
+        "2021-09-01",
+        "2021-10-01",
+        "2021-11-01",
+        "2021-12-01",
+        "2022-01-01",
+        "2022-02-01",
+        "2022-03-01",
+        "2022-04-01",
+        "2022-05-01",
+        "2022-06-01",
+        "2022-07-01",
+        "2022-08-01",
+        "2022-09-01",
+        "2022-10-01",
+        "2022-11-01",
+        "2022-12-01",
+        "2023-01-01",
+        "2023-02-01",
+        "2023-03-01",
+        "2023-04-01",
+        "2023-05-01",
+        "2023-06-01",
+        "2023-07-01",
+        "2023-08-01",
+        "2023-09-01",
+        "2023-10-01",
+        "2023-11-01",
+        "2023-12-01",
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "ysrc": "aline_interviewingio:1224:8e081b",
+      "y": [
+        "72",
+        "70",
+        "97",
+        "107",
+        "74",
+        "96",
+        "93",
+        "82",
+        "61",
+        "98",
+        "96",
+        "52",
+        "67",
+        "83",
+        "117",
+        "119",
+        "141",
+        "119",
+        "119",
+        "158",
+        "116",
+        "85",
+        "14",
+        "1",
+        "4",
+        "2",
+        "5",
+        "7",
+        "3",
+        "11",
+        "9",
+        "6",
+        "5",
+        "6",
+        "9",
+        "6",
+        "6",
+        "24"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(255, 153, 0)"
+      },
+      "opacity": 0.6,
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "dot"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "month",
+          "y": "apple"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Apple",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1224:a50446",
+      "x": [
+        "2021-01-01",
+        "2021-02-01",
+        "2021-03-01",
+        "2021-04-01",
+        "2021-05-01",
+        "2021-06-01",
+        "2021-07-01",
+        "2021-08-01",
+        "2021-09-01",
+        "2021-10-01",
+        "2021-11-01",
+        "2021-12-01",
+        "2022-01-01",
+        "2022-02-01",
+        "2022-03-01",
+        "2022-04-01",
+        "2022-05-01",
+        "2022-06-01",
+        "2022-07-01",
+        "2022-08-01",
+        "2022-09-01",
+        "2022-10-01",
+        "2022-11-01",
+        "2022-12-01",
+        "2023-01-01",
+        "2023-02-01",
+        "2023-03-01",
+        "2023-04-01",
+        "2023-05-01",
+        "2023-06-01",
+        "2023-07-01",
+        "2023-08-01",
+        "2023-09-01",
+        "2023-10-01",
+        "2023-11-01",
+        "2023-12-01",
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "ysrc": "aline_interviewingio:1224:0a87d8",
+      "y": [
+        "80",
+        "20",
+        "50",
+        "20",
+        "40",
+        "80",
+        "40",
+        "40",
+        "100",
+        "40",
+        "20",
+        "130",
+        "14",
+        "10",
+        "12",
+        "16",
+        "8",
+        "8",
+        "8",
+        "11",
+        "10",
+        "3",
+        "5",
+        "9",
+        "8",
+        "11",
+        "18",
+        "11",
+        "5",
+        "3",
+        "3",
+        "70",
+        "30",
+        "40",
+        "10",
+        "10",
+        "30",
+        "0"
+      ],
+      "marker": {
+        "opacity": 1
+      },
+      "opacity": 0.5,
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "dot"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "month",
+          "y": "microsoft"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Microsoft",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1224:a50446",
+      "x": [
+        "2021-01-01",
+        "2021-02-01",
+        "2021-03-01",
+        "2021-04-01",
+        "2021-05-01",
+        "2021-06-01",
+        "2021-07-01",
+        "2021-08-01",
+        "2021-09-01",
+        "2021-10-01",
+        "2021-11-01",
+        "2021-12-01",
+        "2022-01-01",
+        "2022-02-01",
+        "2022-03-01",
+        "2022-04-01",
+        "2022-05-01",
+        "2022-06-01",
+        "2022-07-01",
+        "2022-08-01",
+        "2022-09-01",
+        "2022-10-01",
+        "2022-11-01",
+        "2022-12-01",
+        "2023-01-01",
+        "2023-02-01",
+        "2023-03-01",
+        "2023-04-01",
+        "2023-05-01",
+        "2023-06-01",
+        "2023-07-01",
+        "2023-08-01",
+        "2023-09-01",
+        "2023-10-01",
+        "2023-11-01",
+        "2023-12-01",
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "ysrc": "aline_interviewingio:1224:566b3f",
+      "y": [
+        "9",
+        "11",
+        "37",
+        "39",
+        "28",
+        "25",
+        "20",
+        "13",
+        "25",
+        "20",
+        "26",
+        "17",
+        "45",
+        "37",
+        "45",
+        "45",
+        "49",
+        "28",
+        "2",
+        "8",
+        "8",
+        "2",
+        "3",
+        "1",
+        "3",
+        "7",
+        "1",
+        "1",
+        "2",
+        "1",
+        "3",
+        "3",
+        "9",
+        "2",
+        "15",
+        "0",
+        "2",
+        "1"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(30, 198, 35)"
+      },
+      "opacity": 0.5,
+      "stackgroup": null
+    },
+    {
+      "line": {
+        "dash": "dot"
+      },
+      "meta": {
+        "columnNames": {
+          "x": "month",
+          "y": "netflix"
+        }
+      },
+      "mode": "markers+lines",
+      "name": "Netflix",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:1224:a50446",
+      "x": [
+        "2021-01-01",
+        "2021-02-01",
+        "2021-03-01",
+        "2021-04-01",
+        "2021-05-01",
+        "2021-06-01",
+        "2021-07-01",
+        "2021-08-01",
+        "2021-09-01",
+        "2021-10-01",
+        "2021-11-01",
+        "2021-12-01",
+        "2022-01-01",
+        "2022-02-01",
+        "2022-03-01",
+        "2022-04-01",
+        "2022-05-01",
+        "2022-06-01",
+        "2022-07-01",
+        "2022-08-01",
+        "2022-09-01",
+        "2022-10-01",
+        "2022-11-01",
+        "2022-12-01",
+        "2023-01-01",
+        "2023-02-01",
+        "2023-03-01",
+        "2023-04-01",
+        "2023-05-01",
+        "2023-06-01",
+        "2023-07-01",
+        "2023-08-01",
+        "2023-09-01",
+        "2023-10-01",
+        "2023-11-01",
+        "2023-12-01",
+        "2024-01-01",
+        "2024-02-01"
+      ],
+      "ysrc": "aline_interviewingio:1224:2d1758",
+      "y": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "9",
+        "9",
+        "9",
+        "9",
+        "3",
+        "6",
+        "1",
+        "3",
+        "27",
+        "33",
+        "15",
+        "50",
+        "20",
+        "30"
+      ],
+      "yaxis": "y2",
+      "marker": {
+        "color": "rgb(229, 9, 20)"
+      },
+      "opacity": 0.5,
+      "stackgroup": null
+    }
+  ],
+  "frames": [],
+  "layout": {
+    "title": {
+      "text": "Mock interview purchases for FAANG companies on interviewing.io (as a proxy for hiring volume)"
+    },
+    "xaxis": {
+      "type": "date",
+      "range": [
+        "2020-10-20 03:53:57.0809",
+        "2024-04-13 20:06:02.9191"
+      ],
+      "title": {
+        "text": "Month"
+      },
+      "showgrid": false,
+      "showline": false,
+      "zeroline": true,
+      "autorange": true,
+      "showspikes": false,
+      "rangeslider": {
+        "range": [
+          "2020-11-02 02:33:57.149",
+          "2023-10-30 21:26:02.851"
+        ],
+        "yaxis": {},
+        "yaxis2": {},
+        "visible": false,
+        "autorange": true
+      },
+      "rangeselector": {
+        "visible": false
+      },
+      "showticklabels": true
+    },
+    "yaxis": {
+      "type": "linear",
+      "range": [
+        -29.664662658650638,
+        456.6646626586506
+      ],
+      "title": {
+        "text": "Number of purchases"
+      },
+      "nticks": 5,
+      "showgrid": true,
+      "showline": true,
+      "zeroline": false,
+      "autorange": true,
+      "showticklabels": false
+    },
+    "yaxis2": {
+      "side": "left",
+      "type": "linear",
+      "range": [
+        -10.976619906479627,
+        168.97661990647964
+      ],
+      "ticks": "",
+      "title": {
+        "text": "<br>"
+      },
+      "showgrid": false,
+      "showline": false,
+      "zeroline": false,
+      "autorange": true,
+      "overlaying": "y",
+      "showticklabels": false
+    },
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "autocolorscale": true
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "white",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
+            "showbackground": true,
+            "backgroundcolor": "white"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "automargin": true,
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
+          },
+          "bgcolor": "white"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#19d3f3",
+          "#e763fa",
+          "#fecb52",
+          "#ffa15a",
+          "#ff6692",
+          "#b6e880"
+        ],
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0508b8"
+            ],
+            [
+              0.0893854748603352,
+              "#1910d8"
+            ],
+            [
+              0.1787709497206704,
+              "#3c19f0"
+            ],
+            [
+              0.2681564245810056,
+              "#6b1cfb"
+            ],
+            [
+              0.3575418994413408,
+              "#981cfd"
+            ],
+            [
+              0.44692737430167595,
+              "#bf1cfd"
+            ],
+            [
+              0.5363128491620112,
+              "#dd2bfd"
+            ],
+            [
+              0.6256983240223464,
+              "#f246fe"
+            ],
+            [
+              0.7150837988826816,
+              "#fc67fd"
+            ],
+            [
+              0.8044692737430168,
+              "#fe88fc"
+            ],
+            [
+              0.8938547486033519,
+              "#fea5fd"
+            ],
+            [
+              0.9832402234636871,
+              "#febefe"
+            ],
+            [
+              1,
+              "#fec3fe"
+            ]
+          ]
+        },
+        "plot_bgcolor": "white",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "width": 0
+          },
+          "opacity": 0.4,
+          "fillcolor": "#506784"
+        },
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#506784",
+          "arrowwidth": 1
+        }
+      },
+      "themeRef": "PLOTLY_WHITE"
+    },
+    "annotations": []
+  }
+}

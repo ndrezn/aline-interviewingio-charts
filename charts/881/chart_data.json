@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "uid": "5decc1",
+      "fill": "none",
+      "line": {
+        "dash": "solid",
+        "color": "#1f77b4",
+        "shape": "linear",
+        "width": 2
+      },
+      "mode": "lines+markers",
+      "name": "Col2",
+      "text": "",
+      "type": "scatter",
+      "xsrc": "aline_interviewingio:880:0261d2",
+      "x": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "April",
+        "May",
+        "June",
+        ""
+      ],
+      "ysrc": "aline_interviewingio:880:35a57d",
+      "y": [
+        "4",
+        "18",
+        "27",
+        "35",
+        "32",
+        "44"
+      ],
+      "index": 0,
+      "xaxis": "x",
+      "yaxis": "y",
+      "marker": {
+        "line": {
+          "color": "#444",
+          "width": 0
+        },
+        "size": 6,
+        "color": "#1f77b4",
+        "symbol": "circle",
+        "opacity": 1,
+        "maxdisplayed": 0
+      },
+      "error_x": {
+        "visible": false
+      },
+      "error_y": {
+        "visible": false
+      },
+      "hoveron": "points",
+      "opacity": 1,
+      "visible": true,
+      "hoverinfo": "x+y+z+text",
+      "showlegend": true,
+      "connectgaps": false,
+      "legendgroup": ""
+    }
+  ],
+  "layout": {
+    "font": {
+      "size": 12,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "smith": false,
+    "title": "# of Company Interviews Per Month",
+    "width": 1188,
+    "xaxis": {
+      "side": "bottom",
+      "type": "category",
+      "color": "#444",
+      "dtick": 1,
+      "range": [
+        -0.289,
+        5.289193928434435
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "Month (2016)",
+      "anchor": "y",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 0,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": false,
+      "gridcolor": "rgb(238, 238, 238)",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "tickprefix": "",
+      "ticksuffix": "",
+      "showexponent": "all",
+      "categoryorder": "trace",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "e",
+      "showticklabels": true
+    },
+    "yaxis": {
+      "side": "left",
+      "type": "linear",
+      "color": "#444",
+      "dtick": 5,
+      "range": [
+        1.3631840796019898,
+        46.63681592039801
+      ],
+      "tick0": 0,
+      "ticks": "",
+      "title": "# of Interviews",
+      "anchor": "x",
+      "domain": [
+        0,
+        1
+      ],
+      "mirror": false,
+      "nticks": 0,
+      "showgrid": true,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "tickmode": "auto",
+      "zeroline": true,
+      "autorange": true,
+      "gridcolor": "rgb(238, 238, 238)",
+      "gridwidth": 1,
+      "linecolor": "#444",
+      "linewidth": 1,
+      "rangemode": "normal",
+      "tickangle": "auto",
+      "titlefont": {
+        "size": 14,
+        "color": "#444",
+        "family": "\"Open Sans\", verdana, arial, sans-serif"
+      },
+      "fixedrange": false,
+      "tickformat": "",
+      "tickprefix": "",
+      "ticksuffix": "",
+      "hoverformat": "",
+      "showexponent": "all",
+      "zerolinecolor": "#444",
+      "zerolinewidth": 1,
+      "exponentformat": "B",
+      "showticklabels": true
+    },
+    "height": 635,
+    "margin": {
+      "b": 80,
+      "l": 80,
+      "r": 80,
+      "t": 100,
+      "pad": 0,
+      "autoexpand": true
+    },
+    "shapes": [],
+    "autosize": true,
+    "dragmode": "zoom",
+    "hovermode": "closest",
+    "titlefont": {
+      "size": 17,
+      "color": "#444",
+      "family": "\"Open Sans\", verdana, arial, sans-serif"
+    },
+    "separators": ".,",
+    "showlegend": false,
+    "annotations": [],
+    "hidesources": false,
+    "plot_bgcolor": "#fff",
+    "paper_bgcolor": "#fff"
+  }
+}
